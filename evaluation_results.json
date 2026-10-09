@@ -1,0 +1,1562 @@
+[
+  {
+    "question_id": "Q01",
+    "category": "factual",
+    "question": "What is the official name of the institute?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "Sardar Patel Institute of Technology",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0093,
+    "generation_time_seconds": 9.8565,
+    "total_time_seconds": 9.8657,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 3.7072255611419678,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 10
+        },
+        "text": "E OF\nOk\nSardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\nI agree as long as there are at least 1 or 2 options of my areas of interest\nStudents should be given options for choosing MOOC courses. MOOC course should be from a\nreputed University and should have standalone value in future.\nI think this is a great system. The students who have joined the SCOPE courses would especially\nbenefit from this system.\nShould not be hectic for students\nGood.\nNo\nNo\nNo\nIt should be completed as soon as possible\nNo\nDon't know what this means.\nFine only if it is not a burden.\nFine only if it is not a burden.\nFine.\nSounds good\nFine but we will not be able to do projects and take part in competitions for the entire year because the\ncompetitions stretches upto march and april\nNo comments\nClassroom training would be more preferable\nNo\nGood\nOk but they will be on what basis\nFine\nWill be great if you have Management related courses. what\nWill do\nno\nOkay\nOk with it.\nWhat is the need to those 2 mooc courses when we are already having so much to do from summer\nvacation onwards.\nIdea is good, but what platforms of moocs are available for the students should be specified. Also if\nthe necessary hardware is available in college which is required for that mooc, it should be made\navailable for students\nExcellent."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 3.396273612976074,
+        "source_metadata": {
+          "source": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+          "type": "pdf",
+          "page": 6
+        },
+        "text": "Code of Conduct for Students of SPIT-2023 \n \n \nindividual or group based on origin, race, creed, gender, religious beliefs, or sexual \norientation that is likely to create an intimidating or demeaning environment that impedes a \nconducive atmosphere in the institute. \n \n19. Do not falsify, mislead, forge, or alter official or academic records or documents or conspire \nwith or induce others to forge or alter college records or documents. \n \n20. Institute prohibits unauthorized access and use of Institute properties such as offices, labs, \nseminar halls, conference room and other physical spaces, keys, telephones, and IT \ninfrastructure without proper authorization from Dean-Administration.  \n \n21. Refrain from any act of Violence, damage to property, theft, threatening, harassing, or \nassaultive conduct causing injury to other persons within the campus. \n \n22. A Student or group of Students shall not form any organization, society or organize any event \nor collect funds or subscriptions without the specific written permission of the concerned \nauthorities. \n \n23. Cooperate when requested by an authorized institute official in any internal investigation. \n \n24. Observe social Etiquette and be punctual while attending the meeting(s) (offline/online) \ninvited by the authorities. \n \n25. Strictly avoid illegal or unauthorized possession or use of weapons or articles or substances \nusable as weapons, including, but not limited to, firearms, incendiary devices, explosives, \nand dangerous biological or chemical agents. \n \n26. Do not consume any intoxicating drinks or drugs during college hours and on campus.  \n \n \n27. Smoking and Gambling of any kind is not permitted and strictly prohibited inside the campus. \n \n28. Do not engage or incite other students to engage by any means whatsoever and perform or \nattempt to perform acts which bring disrepute to other students / faculty of the institute. \n \n29."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 3.3895606994628906,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 20
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\nThe college will need to be more proactive in getting internships which are not coding based\n\nthis idea about internship is good. because of this student will learn more practically and this will help\nfor future\n\n \n\nInternship will always help us build our career, but the main thing is we as a student are concerned\nabout the 7th semester. Because we still are not clear about the plan of what will actually happen in\nthat semester, what will be the grading scheme, adding all the core subjects should not turn out a\nburden because we will already have placements going along with BE project. So if the entire idea of\nwhat will happen in 7th semester, evaluation techniques, a drafted plan along with temporary dates\nwould be a good help for a student to prepare himself accordingly. And also what happens with the\nstudents who complete their 6 tracks of scope courses? If an orientation or planned information in\nwritten was provided, then | would surely go fora YES\n\nProposing semester long internship sounds good and core industries require that much duration for\ninternships but for that purpose, compressing the semesters duration, i feel risky because managing\nall subjects study, journal submissions, assignments & final year project will be very difficult for a slow\nlearner or an average student. In case students get low score or may get kt in the final year, those\nstudents won't be able to get placement in good company, so doing that internship won't help."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 10,
+        "score": 3.7072255611419678
+      },
+      {
+        "label": "Source 2",
+        "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+        "page": 6,
+        "score": 3.396273612976074
+      },
+      {
+        "label": "Source 3",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 20,
+        "score": 3.3895606994628906
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q02",
+    "category": "factual",
+    "question": "Where is S.P.I.T. located?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "Mumbai",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.001,
+    "generation_time_seconds": 8.0362,
+    "total_time_seconds": 8.0372,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 3.932262897491455,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 37
+        },
+        "text": "Would you like the idea of a product development center to be initiated in the\ndepartment where collaborative products can be developed?\nYes\nNo\n1. Are there any resources or services that you would like to see offered to Graduates?*\n1. More powerful machines to more students.\n2. Better Project development facilities like dedicated labs etc.\n3. In case of a big SEVA event, travel services from the main station of the event to the event itself.\n4. SEVA activity locations need to be chosen more carefully as the ratio of travelling time to actual\ntime spent on the event should be minimal.\nIf Yes, Give your Suggestion.\n2. Could you provide suggestions for how to improve Graduate program? *\n1. Currently, the amount of stress that the students have to go through is huge. This can be catered if\na well defined harmony exists between the subjects and their curriculum so that the students can\nfocus their attention only on one subject at a time.\n27-Nov-24, 1:37 PM 12 of 86\n27-Nov-24, 1:37 PM"
+      },
+      {
+        "rank": 2,
+        "bm25_score": 2.7695810794830322,
+        "source_metadata": {
+          "source": "127f19df7009_Tender-for-GPU.pdf",
+          "title": "127f19df7009_Tender-for-GPU.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/02/Tender-for-GPU.pdf",
+          "type": "pdf",
+          "page": 5
+        },
+        "text": "Bhartiya Vidya Bhavan’s \nSARDAR PATEL INSTITUTE OF TECHNOLOGY \nANDHERI, MUMBAI 400058 \n \nSAS Controller \nBroadcom MegaRAID 9560-16i, Broadcom MegaRAID \n9540-8i, ASUS PIKE II 3008 8-port HBA Card \nStorage Bays \n8 x 3.5\" Front Hot-swap Storage Bays (backplane supports \nup to 8 x NVMe/SATA/SAS; SAS support requires an \nHBA/RAID card) \nNetworking \n2 x 10GbE LAN ports (RJ45, X710-AT2) or 2 x Gigabit \nLAN ports (RJ45, I350-AM2); 1 x Management Port \n(RJ45) \nGraphics \nAspeed AST2600 64MB \nFront I/O Ports \n2 x USB 3.2 Gen1 ports; 1 x VGA port \nRear I/O Ports \n1 x VGA port; 1 x COM port; 2 x 10GbE/1GbE LAN ports \n(RJ45, build for order); 1 x Management port (RJ45) \nSwitch/LED \n- \nFront \nSwitch/LED \n1 x Power Button w/LED, 1 x Location Button w/LED, 1 x \nMessage LED, 1 x Q-Code/Port 80 LED, 1 x Clear CMOS \nLED, 1 x Reset LED, 1 x M.2 LED \nSwitch/LED - \nRear Switch/LED \n1 x Power Button w/LED, 1 x Location Button w/LED \nOS Support \nWindows Server, RedHat® Enterprise Linux, SuSE® \nLinux Enterprise Server, CentOS, Ubuntu, VMware (Refer \nto ASUS OS support list for latest update) \nPower Supply \n2+2 Redundant 2600W/3000W 80 PLUS Platinum;"
+      },
+      {
+        "rank": 3,
+        "bm25_score": 2.4952292442321777,
+        "source_metadata": {
+          "source": "127f19df7009_Tender-for-GPU.pdf",
+          "title": "127f19df7009_Tender-for-GPU.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/02/Tender-for-GPU.pdf",
+          "type": "pdf",
+          "page": 5
+        },
+        "text": "1 x Location Button w/LED \nOS Support \nWindows Server, RedHat® Enterprise Linux, SuSE® \nLinux Enterprise Server, CentOS, Ubuntu, VMware (Refer \nto ASUS OS support list for latest update) \nPower Supply \n2+2 Redundant 2600W/3000W 80 PLUS Platinum; 2+1 \nRedundant 3000W 80 PLUS Platinum Power Supply; \nRating: 220-240 Vac, 15.5A(x4), 50-60 Hz \nEnvironment \nOperating Temp: 10°C ~ 35°C; Non-Operating Temp: \n-40°C ~ 70°C; Non-Operating Humidity: 20% ~ 90% \n(Non-condensing)"
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 37,
+        "score": 3.932262897491455
+      },
+      {
+        "label": "Source 2",
+        "title": "127f19df7009_Tender-for-GPU.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/02/Tender-for-GPU.pdf",
+        "page": 5,
+        "score": 2.7695810794830322
+      },
+      {
+        "label": "Source 3",
+        "title": "127f19df7009_Tender-for-GPU.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/02/Tender-for-GPU.pdf",
+        "page": 5,
+        "score": 2.4952292442321777
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q03",
+    "category": "factual",
+    "question": "Which university is S.P.I.T. affiliated with?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "University of Mumbai",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0009,
+    "generation_time_seconds": 10.037,
+    "total_time_seconds": 10.0379,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 3.1287760734558105,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 7
+        },
+        "text": "TE\nSardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\nIf you are not interested in internship offered by S.P.I.T. then\nwhich of the following options you will choose (select all the\noptions you are open for)\n188 responses\n-76 (40.4%)\n-137 (72.9%)\n92 (48.9%)\n-43 (22.9%)\n-50 (26.6%)\n1 (0.5%)\n1 (0.5%)\n(0.5%)\n(0.5%)\nTop\nresults\n137\n92\n76\n50\n43\n1\n-1 (0.5%)\n-1 (0.5%)\n-1 (0.5%)\nIf you are not interested in internship offered by S.P.I.T. then which of the\nfollowing options you will choose (select all the options you are open for)\nStudent himself/herself identifies internship and gets it approved by S.P.I.T.\nStudent can do an internship at IIT, NIT, TIFR or TISS\nS.P.I.T."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 2.8212616443634033,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 13
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\n \n\nApprehensive about this idea, since if given a long time to complete 3 courses we may take our time\nto complete them and yield nothing out of it.\n\nTaking the courses is a good idea but in order to obtain the certificate for the course we will need to\npa\n\nThat's Fine!\n\n \n\n \n\nStudents should be asked which courses they want\n\nGood Idea\nIt will save time and can get more industry experience\n\n \n\n| am fine with this arrangement.\n\n| believe this is a great way to learn different technologies\nShould not be hectic.\n\nOK\n\n \n\n \n\n \n\n \n\nYes but the mooc courses should be something that college suggest\n\nThe MOOC courses should be as per the industry standards.\nPlease take care to ensure the quality of the courses.\n\nAgreed\n\nThis is fine , as long as the mooc courses don’t overburden us\nGood decision, students can learn courses which they like.\n\n \n\nFine\n\nIt's a good idea\n\nIt will be hectic along with the internship.\nSounds good\n\nYes"
+      },
+      {
+        "rank": 3,
+        "bm25_score": 2.7941765785217285,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 9
+        },
+        "text": "TELINS\n0GY SAR\nSardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\nCan all sem 8 courses not be mooc so we can get summer 2019 to ourselves\nAgreed\nIf this is additional to the current cources in Sem VIl and Sem VII, there isn't a need for this. It's a big\nNO. We'll just do the current syllabus. And then go on for internships.\nOnline courses are difficult to understand\nit could be beneficial\nFine with it\nIf this is additional to the courses offered in the seventh and eighth semester then this is a BIG NO.\nThere is no need for this and we'll complete our syllabus and go on with the internships. Also if this is\nimplemented then the college has to INCUR THE CERTIFICATION FEES incase this is implemented\nIts a good idea but the process of opting those courses and which courses will be the best for us has\nto be explained by the concerned faculty because if students are not able to complete those courses\nafter selection of the courses it would be difficult to cope up with it.\nI feel that as the credits are at stake for the MOOC courses, logically students will try to go for the\nsimplest course to earn those credits. Also I feel that these courses cannot do proper justice to the\ncourses which are actually taught in the class with expertise\nCan be viable option, it will be better to do it under teacher's supervision\nIt would be great if our college collaborate with academic portals like edX,Udacity, Coursera which\nhave already courses designed for particular specialisation. It would help us to bolster our resume for\nHigher Studies and applying for core companies."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 7,
+        "score": 3.1287760734558105
+      },
+      {
+        "label": "Source 2",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 13,
+        "score": 2.8212616443634033
+      },
+      {
+        "label": "Source 3",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 9,
+        "score": 2.7941765785217285
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q04",
+    "category": "factual",
+    "question": "What is the institute's academic or autonomous status?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "The institute is autonomous.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.001,
+    "generation_time_seconds": 10.9882,
+    "total_time_seconds": 10.9893,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 4.887350082397461,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 14
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\nAny other comment or suggestion? If you have selected NO for question 1 then\nplease mention why?\n\nMore insight about the companies coming for placement must be provided\n\nWhile | laud the initiative, | must say that as a student whose career is at stake | have the following\nconcerns which should be addressed. Firstly, if the college is to move to a placement process dictated\nby industrial training/internships after 3rd year, assurances must be given that opportunities will not\nlessen in number or quality. Secondly, there should be a contingency in place for those students who\neither are unable to secure internships and consequently PPOs, or those that have unsatisfactory\nexperiences at the internship. Said contingency must be in the form of a stand alone placement policy\nsuch as the one that already exists for BE students in status quo.\n\n       \n    \n   \n   \n   \n     \n \n\n  \n\n   \n \n   \n\nInternship will definitely be a differentiating factor between us and all other students from other\ninstitutes. But what matters the most is the quality of the internship ,which company or startup it is. if\nonly a selected few get good companies and rest all get or don't get internship then what will\nhappen.Doing internship in which work doesn't add to your resume then there is no point doing\ninternship\nWe want to make sure that everyone who are getting internships must get opportunity to apply for\nplacement if they are not placed by the interned compan\nnone\n\nWe request you to give a brief and clear explanation on the upcoming changes to be made in the\ncurricular."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 4.267475605010986,
+        "source_metadata": {
+          "source": "006b34a5af36_New_NBA-Accreditation-letter_09.06.2017.pdf",
+          "title": "006b34a5af36_New_NBA-Accreditation-letter_09.06.2017.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2019/12/New_NBA-Accreditation-letter_09.06.2017.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "Report of the Expert\nTeam was considered by the concerned Committees constituted for the purpose in NBA. The competent authority in NBA\nhas approved the accreditation status to the following programs as given in the table below:\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nNami the Basis of Accreditation Berio of\nS. No. Program Ev , validity Remarks\nEvaluation Status\n— (UG) — L\nQ) (2) GB) (4) G) (6)\nil, Computer Provisionally\nEngineering | ; Accredited Accreditation status\n| Tier-II Academic Years | granted is valid for the\n2: Electronics Provisionally 2017-18 to 2019-| period indicated in Col.5\nEngineering June, 2015 Accredited 20 i.e., upto | or till the program has the\n____| Document 30-06-2020 | approval of the competent\n3. Electronics and | Provisionally authority, whichever is\nTelecommunication | Accredited earlier.\nEngineering\n3. It may be noted that only students who graduate during the validity period of accreditation, will be deemed to have\n\ngraduated with an NBA accredited degree.\n\n4. The programs have been granted provisional accreditation. Bharatiya Vidya Bhavans Sardar Patel Institute of\nTechnology, Bhavans Campus, Munshi Nagar, Andheri (West), Maharashtra should submit the Compliance Report at least\nsix months before the expiry of validity of accreditation mentioned above to be eligible to be considered by the concerned\nCommittee in NBA for further processing of the accreditation status. This could entail further extension of accreditation or\na revisit, as deemed appropriate by NBA Committees.\n\n5."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 4.201911926269531,
+        "source_metadata": {
+          "source": "006b34a5af36_New_NBA-Accreditation-letter_09.06.2017.pdf",
+          "title": "006b34a5af36_New_NBA-Accreditation-letter_09.06.2017.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2019/12/New_NBA-Accreditation-letter_09.06.2017.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "This could entail further extension of accreditation or\na revisit, as deemed appropriate by NBA Committees.\n\n5. The accreditation status awarded to the programs as indicated in the above table does not imply that the\naccreditation has been granted to Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, Bhavans Campus,\nMunshi Nagar, Andheri (West), Maharashtra as a whole. As such, the Institution should nowhere along with its name\nincluding on its letter head ete. write that it is accredited by NBA because it is program accreditation and not\nInstitution accreditation. If such an instance comes to NBA’s notice, this will be viewed seriously. Complete name\nof the program(s) accredited, level of programs and the period of validity of accreditation, as well as the academic year\nfrom which the accreditation is effective should be mentioned unambiguously whenever and wherever it is required to\nindicate the status of accreditation by NBA.\n\nContd..2/-\n\nen"
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 14,
+        "score": 4.887350082397461
+      },
+      {
+        "label": "Source 2",
+        "title": "006b34a5af36_New_NBA-Accreditation-letter_09.06.2017.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2019/12/New_NBA-Accreditation-letter_09.06.2017.pdf",
+        "page": 1,
+        "score": 4.267475605010986
+      },
+      {
+        "label": "Source 3",
+        "title": "006b34a5af36_New_NBA-Accreditation-letter_09.06.2017.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2019/12/New_NBA-Accreditation-letter_09.06.2017.pdf",
+        "page": 1,
+        "score": 4.201911926269531
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q05",
+    "category": "factual",
+    "question": "Which undergraduate engineering programmes are listed by the institute?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "The undergraduate engineering programmes listed by the institute are:\n\n1. B.Tech CSE (AIML)\n2. B.Tech CSE (Data Science)",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0007,
+    "generation_time_seconds": 12.9925,
+    "total_time_seconds": 12.9933,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 4.431539535522461,
+        "source_metadata": {
+          "source": "200009b1e50f_14-GB-MOM.pdf",
+          "title": "200009b1e50f_14-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/14-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 6
+        },
+        "text": "12. Starting a new integrated M.Tech program in Electronics and Telecommunication\nEngineering and Increase in intake.\n\nThese proposals are widely discussed. While appreciating the proposal to start\nthe integrated M.Tech program, the members cautioned to study the consequences\ndeeply. Prof Bhirud though not present in person, opined that this move will lower the\nmerit during the admissions and unless institute offers dual degree, it will not attract\nthe students. Further, he remarked that while public institutions may take such\ndecision boldly, self-funded institutes should be very cautious while taking such an\nunusual decision. He said on the contrary, the institute should think about increasing\nthe intake of its flagship UG program in computer engineering as it is attracting top-\nnotch students. The principal informed that all senior faculty members of the institute\nin computer engineering are also of the opinion that the institute should increase its\nundergraduate intake in order attract meritorious students. Few members of the\nGoverning Body supported the decision to increase the intake of the undergraduate\n\n0 Hy a*\n\n1f? GBIF” Feb. 23"
+      },
+      {
+        "rank": 2,
+        "bm25_score": 4.344889163970947,
+        "source_metadata": {
+          "source": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "Code of Conduct for Students of SPIT-2023 \n \n \n                                 Sardar Patel Institute of Technology  \n       Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058, India \n                                          (Autonomous College Affiliated to University of Mumbai) \n \n \n CODE OF CONDUCT FOR STUDENTS \n \nPreamble: \nWe at Bharatiya Vidya Bhavan’s, Sardar Patel Institute of Technology have introduced a code of \nconduct for the students, to foster the scholarly and civic development of the students in a safe and \nsecure learning environment, and to protect the people, properties and processes that support the \ninstitute and its missions. The code of conduct comprises the instructions obliging the students \nenrolled for various programmes/courses in the college and have to abide by the same. It is \npertinent for the students to be aware of the rules and regulations, protect their rights and \nbecome more responsible towards the institution. \nThe student code of conduct defines acceptable behaviour and social norms that  all students in \nBhartiya Vidya Bhavan's, Sardar Patel Institute of Technology, Mumbai, Maharashtra should adopt \non a day-to-day basis. All students, pursuing undergraduate, post-graduate, research Ph.D. and those \nwho are withdrawn from the rolls on temporary basis for a semester or for an academic year for \nvarious reasons, but continue their relationship with the Institution, or who have been notified of \ntheir acceptance for admission must align their actions with the ethos of the institute.  \nThe code should be adhered to by all the students enrolled in various programmes/courses in the \ncollege, while they are in campus as well representing college off-campus.  The code is available on \nthe institute official website for students’ reference. \nTo ensure that, Bharatiya Vidya Bhavan’s, Sardar Patel Institute of Technology, prescribes the \nfollowing code of conduct for its students: \n \nCode of Conduct for Students are as follows: \n \n1."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 4.236300945281982,
+        "source_metadata": {
+          "source": "200009b1e50f_14-GB-MOM.pdf",
+          "title": "200009b1e50f_14-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/14-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 15
+        },
+        "text": "Bharatiya Vidya Bhavan's\n\n(Autonomous)\n\nSARDAR PATEL INSTITUTE OF TECHNOLOGY\n\nMunshi Nagar, Andheri(W), Mumbai — 400 058.\n\n11 Delegation of\n\n12\n\nfinancial power\n\nStarting a new\nintegrated M.Tech\nprogram in\nElectronics and\nTelecommunication\nEngineering and\nIncrease in intake.\n\nResolution 11/14: The Governing\nBody appreciated the formal\ndeclaration of the financial power\ndelegation and approved a limit of\nRs. 20,000/- for HoD/Dean,\n5,00,000/- for Principal and\n1,00,00,000/- for the Chairman as\nproposed in Table 11.1 of the\nagenda, within the limits of the\nsanctioned budget.\n\nResolution 12(a)/14: The Governing\nBody turned down the proposal of\nstarting the new integrated M.Tech\nprogram and increase in MCA, and\ndirected the institute to increase the\nintake for the undergraduate\nprogram in Computer Engineering\nby 120 if the infrastructure is as per\nthe AICTE guidelines.\n\nResolution 12(b)/14 : The Governing\nBody approved the change in the\nname of undergraduate course\nB.Tech CSE (AIML) to B.Tech CSE.\n\nResolution 12(c)/14 : The Governing\nBody approved the change in the\nname of undergraduate course\nB.Tech CSE (Data Science) to B.Tech\nCSE.\n\nAll functionaries are |\ninformed about\ntheir financial\npowers.\n\nApplication is\nsubmitted to the\nMumbai University,\nDTE and AICTE while\napplying for the EOA\nfor the academic\nyear 2023-24 for\nincrease in intake\nand change in the\nname of the courses.\nMumbai University\nis also requested to\nissue the NOC for\nthese.\n\nThe requisite fees is\ndeposited to the\nDTE as per the\nGovernment\nResolution."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "200009b1e50f_14-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/14-GB-MOM.pdf",
+        "page": 6,
+        "score": 4.431539535522461
+      },
+      {
+        "label": "Source 2",
+        "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+        "page": 1,
+        "score": 4.344889163970947
+      },
+      {
+        "label": "Source 3",
+        "title": "200009b1e50f_14-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/14-GB-MOM.pdf",
+        "page": 15,
+        "score": 4.236300945281982
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q06",
+    "category": "factual",
+    "question": "Which postgraduate programmes are listed by the institute?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "The postgraduate programmes listed by the institute are:\n\n1. Master's Programmes\n2. Doctoral Programs\n3. Postdoctoral Programs",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.001,
+    "generation_time_seconds": 10.6238,
+    "total_time_seconds": 10.6248,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 3.6522622108459473,
+        "source_metadata": {
+          "source": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+          "type": "pdf",
+          "page": 9
+        },
+        "text": "Code of Conduct for Students of SPIT-2023 \n \n \n \n3. Monetary Fines: Monetary Fines are a disciplinary action in which a student is made to pay an \namount towards committing misconduct. It also includes Restitution which means making \ncompensation for loss, injury, or damage of the college property. \n \n4. Confiscation: Confiscation means confiscation of goods used or possessed in violationof college \nregulations. \n \n5. Restriction of Privileges: Restriction of privileges means the denial or depriving of specific \nprivileges, including but not limited to, access to a student facility, placement programmers, \ncollege events for a defined period. \n \n6. Withholding of Degree: Means withholding of degree otherwise earned for a defined period or \nuntil the completion of assigned disciplinary action. \n \n7. Dismissal is an extreme action, which permanently separates a student from the college campus \nwithout giving an opportunity to re-enroll at any time in future. \n \n8. Other sanctions: Other appropriate disciplinary actions may be imposed by the Competent \nAuthority. \n \n \n \n       Prof. Sudhir N. Dhage                                                                 Prof. Bhalchandra N. Chaudhari \n   Dean-Administration &QA                                                                               Principal"
+      },
+      {
+        "rank": 2,
+        "bm25_score": 3.327376365661621,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 44
+        },
+        "text": "Program Exit Survey (Batch: 2016-20)\n25 of 86\nhttps://docs.google.com/fow0/d/IR3GblJjFeBpyKxi8QfLbnV_f...\nProgram Exit Survey (Batch: 2016-20,\nhttps://docs.google.com/forms/u/0/d/1R3GblJjFeBpyKxi8QfLbnV_f...\n4. Any Content/Course you need to Remove to Curriculum of any Semester? *\nCourses which have a non-null intersection of syllabus can be redesigned.\n5. Would you like the idea of a product development center to be initiated in the\ndepartment where collaborative products can be developed?\nProgram Exit Survey (Batch: 2016-20)\nPlease give your valuable feedback to improve the quality of the programme. Select your ranking on\nthe scale of 1 to 3 for each of the following parameters.\nSPIT\nO\nYes\nΟ\nNo\nIf Yes, Give your Suggestion.\nThis could be a non-curricular program where students can pitch their ideas and those ideas which\nare relevant can be developed with the help of students and teachers. Specific faculty must be\nassigned to mentor the students in order to get the best results.\nAppreciating Your Valuable Time and Response\nThank\nYou!!\nOF\nTE\n1. Are you able to apply principles of science, Mathematics, and Computer Engineering in\nsolving Engineering problems? (PO1)\nStrong(3)\nModerate(2)\nLow(1)\nThis form was created inside of Sardar Patel Institute of Technology.\nGoogle Forms\n2. Are you able to analyze problems to search the Literature and find out the appropriate\nsolutions to Engineering problems?"
+      },
+      {
+        "rank": 3,
+        "bm25_score": 3.2661550045013428,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "STUDENT FEEDBACK \n \nSr. No. \nDescription \nPage No. \n1 \nAy 2018-19 \n5 Sample Feedback Forms/Summary ALL Programme  \n \n3-22 \n \n2 \nAY 2019-20 \n5 Feedback Forms/Summary CE Programme \n5 Feedback Forms/Summary EXTC Programme \n \n24-48 \n51-80 \n3 \nAY 2021-22 \nFeedback Forms/Summary MCA Programme \n \n82-93 \n4 \nAY 2022-23 \n5 Sample Feedback Forms/Summary CE Programme \n5 Sample Feedback Forms/Summary CE Programme \n \n95-106 \n108-115"
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+        "page": 9,
+        "score": 3.6522622108459473
+      },
+      {
+        "label": "Source 2",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 44,
+        "score": 3.327376365661621
+      },
+      {
+        "label": "Source 3",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 1,
+        "score": 3.2661550045013428
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q07",
+    "category": "factual",
+    "question": "Which departments or academic departments are listed on the official website?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "The departments or academic departments listed on the official website of Sardar Patel Institute of Technology (SPIT) are:\n\n1. IT Department\n2. Computer Department\n3. EXTC Department\n4. ETRX Department\n5. International Exchange Department\n6. Education Department\n7. HR Department\n8. Administrative Department\n9. Finance Department\n10. Marketing Department\n11. Sports Department\n12. Arts Department\n13. Science Department\n14. Engineering Department\n15. Psychology Department\n16. Biology Department\n17. Physics Department\n18. Chemistry Department\n19. Mathematics Department\n20. History Department\n21. Geography Department\n22. Political Science Department\n23. Economics Department\n24. Sociology Department\n25. Philosophy Department\n26. Law Department\n27. Environmental Science Department\n28. Biochemistry Department\n29. Biotechnology Department\n30. Materials Science Department\n31. Mechanical Engineering Department\n32. Electrical Engineering Department\n33. Civil Engineering Department\n34. Industrial Engineering Department\n35. Chemical Engineering Department\n36. Nuclear Engineering Department\n37. Aerospace Engineering Department\n38. Marine Engineering Department\n39. Food Engineering Department\n40. Pharmaceutical Sciences Department\n41. Forensic Science Department\n42. Environmental Science and Policy Department\n43. Public Health Department\n44.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0007,
+    "generation_time_seconds": 22.0472,
+    "total_time_seconds": 22.0479,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 6.575145721435547,
+        "source_metadata": {
+          "source": "284161e82478_Employer-Feedback-AY-20-21.pdf",
+          "title": "284161e82478_Employer-Feedback-AY-20-21.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/03/Employer-Feedback-AY-20-21.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "Sardar Patel Institute of Technology \nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058, India \n(Autonomous College Affiliated to University of Mumbai) \n \nIQAC \nEMPLOYER FEEDBACK ANALYSIS 2020-21 \n \n \nINTRODUCTION \nThe institution collects the feedback on Institute Perception, Institute Mission, and Department \nPerception, Department vision, Department Mission, curriculum aspects, PEO, PSO, PO, from \ndifferent stakeholders such as the students, alumni, parents, Faculty and Employers. Institution \nestablished Academic Council in order to ensure and analyze the academic excellence at student \nand faculty levels. \nS.P.I.T. thoroughly reviews the curriculum for every academic year. The college maintains an \nIQAC as a quality consistence and quality enhancement measure. Various departments and \ncommittees work for Career Guidance, Anti-Ragging and Sexual Harassment Committee, etc. \nreinforce the curriculum by incorporating suggestions from various stake holders and experts. \nThe college conducts annual Alumni Meet, in which suggestions and feedback is received from \nAlumni students. Feedback from industry/ recruiters and professionals is obtained through tpo/ \nIQAC and department feedback committee. The provided feedback data is analyzed and \nincorporated for necessary implementation in curriculum. \nMETHODOLOGY \nThe feedback form was shared with all the employers and a total of 22 respondents who had \ncome for recruitment in June-August 2021 contributed to the feedback process."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 5.9434614181518555,
+        "source_metadata": {
+          "source": "245398d1925e_6.InternalQualityAssuranceCell.pdf",
+          "title": "245398d1925e_6.InternalQualityAssuranceCell.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/6.InternalQualityAssuranceCell.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "HU att agl : Bal Hay fsa : |\n\n   \n \n \n \n\n(Founded in 1938 by Kulapati Dr. K. M. Munshi with the blessings of Mahatma Gandhi)\n\nLet noble thoughts come to us from every side\n\nSARDAR PATEL INSTITUTE OF TECHNOLOGY\n\n( Autonomous Institute )\n\nBhavan’s Campus, Munshi Nagar, Andheri (west), Mumbai - 400058, India\nE mail: principal@spit.ac.in website: www.spit.ac.in\n\nDate: 1° July 2022.\n\nRed-No: ESt/ea@ac|& p2rt/2029 /423\nAppointment as a Member on Internal Quality Assurance Committee\nWith Reference to the above subject, | have a great pleasure in appointing/inviting you to be a\n\nmember of the Internal Quality Assurance Committee at Sardar Patel Institute of Technology for the\nperiod of three years.\n\n    \n    \n\n| Sr. Structure of Committee Designation Composition of\n| Committee\n1 Chairperson Dr. B. N. Chaudhari\n\n2 Management | BOG member Dr. S.G. Bhirud |\nRepresentative |\n\n3 External Domain Expert Dy. Director, COEP Dr. M.S. Sutaone\n\n| 4 External Domain Expert Professor, VITI ‘Dr. Rohin Daruwala\n\n5 External Domain Expert Professor, COEP Dr. Vahida Attar\n\n \n\n|\n\n6 Industry Expert Global Head, OLX Autos Mr. Rohit Pendharkar\n| 7 IQAC Coordinator Professor, SPIT Dr. Pooja Raundale\n8 Member Computer Department Prof. Anand Godbole\n\n9 Member _ IT Department Prof. Rupali Sawant\n\n \n\n10 Member IT Department Prof. Swapnali Kurhade\n\n \n\n| 11 Member EXTC Department Dr. Sujata Kulkarni\n\n12 Member _ETRX Department Prof."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 5.522933006286621,
+        "source_metadata": {
+          "source": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "The code is available on \nthe institute official website for students’ reference. \nTo ensure that, Bharatiya Vidya Bhavan’s, Sardar Patel Institute of Technology, prescribes the \nfollowing code of conduct for its students: \n \nCode of Conduct for Students are as follows: \n \n1. Students are expected to practice high standards of academic and professional honesty and \nintegrity and to respect the rights, privileges, and property of other members of the \nacademic community as well as the Society.  \n \n2. The student must be regular and shall fulfil the attendance norms. As per norms of University \nof Mumbai, students are required to maintain minimum attendance of 75% in each subject"
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "284161e82478_Employer-Feedback-AY-20-21.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/03/Employer-Feedback-AY-20-21.pdf",
+        "page": 1,
+        "score": 6.575145721435547
+      },
+      {
+        "label": "Source 2",
+        "title": "245398d1925e_6.InternalQualityAssuranceCell.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/6.InternalQualityAssuranceCell.pdf",
+        "page": 1,
+        "score": 5.9434614181518555
+      },
+      {
+        "label": "Source 3",
+        "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+        "page": 1,
+        "score": 5.522933006286621
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q08",
+    "category": "factual",
+    "question": "Where can a prospective student find official admission information?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "The user's question asks about where prospective students can find official admission information. However, the provided context does not mention any specific resources or channels for obtaining official admission information for students applying to the Sardar Patel Institute of Technology (SPIT). Therefore, based solely on the available information, the most appropriate response would be:\n\nI can only answer questions directly related to SPIT using its official knowledge base.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0007,
+    "generation_time_seconds": 14.5607,
+    "total_time_seconds": 14.5615,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 7.06037712097168,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 44
+        },
+        "text": "Program Exit Survey (Batch: 2016-20)\n25 of 86\nhttps://docs.google.com/fow0/d/IR3GblJjFeBpyKxi8QfLbnV_f...\nProgram Exit Survey (Batch: 2016-20,\nhttps://docs.google.com/forms/u/0/d/1R3GblJjFeBpyKxi8QfLbnV_f...\n4. Any Content/Course you need to Remove to Curriculum of any Semester? *\nCourses which have a non-null intersection of syllabus can be redesigned.\n5. Would you like the idea of a product development center to be initiated in the\ndepartment where collaborative products can be developed?\nProgram Exit Survey (Batch: 2016-20)\nPlease give your valuable feedback to improve the quality of the programme. Select your ranking on\nthe scale of 1 to 3 for each of the following parameters.\nSPIT\nO\nYes\nΟ\nNo\nIf Yes, Give your Suggestion.\nThis could be a non-curricular program where students can pitch their ideas and those ideas which\nare relevant can be developed with the help of students and teachers. Specific faculty must be\nassigned to mentor the students in order to get the best results.\nAppreciating Your Valuable Time and Response\nThank\nYou!!\nOF\nTE\n1. Are you able to apply principles of science, Mathematics, and Computer Engineering in\nsolving Engineering problems? (PO1)\nStrong(3)\nModerate(2)\nLow(1)\nThis form was created inside of Sardar Patel Institute of Technology.\nGoogle Forms\n2. Are you able to analyze problems to search the Literature and find out the appropriate\nsolutions to Engineering problems?"
+      },
+      {
+        "rank": 2,
+        "bm25_score": 6.6396660804748535,
+        "source_metadata": {
+          "source": "01ddbf4278c5_10-GB-MOM.pdf",
+          "title": "01ddbf4278c5_10-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 3
+        },
+        "text": "He suggested that some relaxation can be given to the Research Scholars contributing\nto academic activity. He suggested to minute that “the board welcomes the prospect\nof finding ways — financial and otherwise to attract the best talent to the P.hD.\nprogram and study be carried out and specific recommendations to be brought before\nthe board”. Dr Prachi Gharpure suggested that since the institute is self-financed\ninstitution, the expenditure towards sponsoring the publication, journal subscription,\nlaboratory usage, special facility if any, honorarium to guide etc. need to be calculated\nand fees be arrived ensuing that Ph.D. program is totally self-supporting program. Prof\nGadre expressed that honorarium to the Guide is uncomfortable and is not the good\npractice. Prof. Rao explained that there are some external guides, and they need to be\npaid. Prof Rathod opined in unison with Prof. Rao. Principal also expressed his\ndiscomfort with existing practice of paying the honorarium to the in house guides and\nensured revisiting the Ph.D. program fees in totality considering the philosophy,\napproach, tangential and nontangential benefits etc.\n\nResolution 04/10 : The Governing Body welcomes the prospect of finding ways,\nfinancial or otherwise to attract the best talent to the Ph.D. program and directs that\nspecific recommendations after careful study be brought out before the board."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 6.41244649887085,
+        "source_metadata": {
+          "source": "01ddbf4278c5_10-GB-MOM.pdf",
+          "title": "01ddbf4278c5_10-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 3
+        },
+        "text": "Bharatiya Vidya Bhavan’s\nSARDAR PATEL INSTITUTE OF TECHNOLOGY\n\n(Autonomous)\nMunshi Nagar, Andheri(W), Mumbai — 400 058.\n\n \n\nstructure of the academic program\n° All stake holders to be consulted and inputs taken before finalizing the\nstructure.”\n\nPrincipal assured the GB to revisit this proposal carefully drafting the rules\nensuring that Mumbai University rules for Ph.D. become subset of the rules of the\nPh.D. program at the institute, with wide deliberations with all stake holders and\nseeking approval from the academic council.\n\nResolution 03/10 : The GB resolves that starting the autonomous Ph.D. program is\ndesirable in the long run and it is to be ensured that no compromise is made in the\nquality of Ph.D. program, and all stakeholders are duly consulted in finalizing the\nstructure of the Ph.D. program. The Governing Body approves this in principle.\n\n4. Fees revision for the Ph.D. program.\n\nThe Principal briefed the GB about the rationale behind proposing the fees revision\nfor Ph.D. program. He expressed his concern over the present fees and shrinking\nadmissions for the Ph.D. program. He expressed the need to attract bright young\nstudents for the Ph.D. program and even offer them fellowship from institute funds\nor from industry support. He advocated for the reduction in the fees for Ph.D.\nprogram. Chairman requested Prof Gadre to explain the IITB practice towards this.\nProf. Gadre informed that in IITs too, some concession is given to full time scholars.\nHe suggested that some relaxation can be given to the Research Scholars contributing\nto academic activity. He suggested to minute that “the board welcomes the prospect\nof finding ways — financial and otherwise to attract the best talent to the P.hD.\nprogram and study be carried out and specific recommendations to be brought before\nthe board”."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 44,
+        "score": 7.06037712097168
+      },
+      {
+        "label": "Source 2",
+        "title": "01ddbf4278c5_10-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+        "page": 3,
+        "score": 6.6396660804748535
+      },
+      {
+        "label": "Source 3",
+        "title": "01ddbf4278c5_10-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+        "page": 3,
+        "score": 6.41244649887085
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q09",
+    "category": "factual",
+    "question": "What official contact information is provided for the institute?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "The institute has an official contact email address provided in the following format:\n\nhttps://ay23-24.mahafraportal.org/ss/contact-us\n\nThis email address serves as the primary point of contact for inquiries regarding the institute's services and policies.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0007,
+    "generation_time_seconds": 14.3176,
+    "total_time_seconds": 14.3183,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 5.479017734527588,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 20
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\nThe college will need to be more proactive in getting internships which are not coding based\n\nthis idea about internship is good. because of this student will learn more practically and this will help\nfor future\n\n \n\nInternship will always help us build our career, but the main thing is we as a student are concerned\nabout the 7th semester. Because we still are not clear about the plan of what will actually happen in\nthat semester, what will be the grading scheme, adding all the core subjects should not turn out a\nburden because we will already have placements going along with BE project. So if the entire idea of\nwhat will happen in 7th semester, evaluation techniques, a drafted plan along with temporary dates\nwould be a good help for a student to prepare himself accordingly. And also what happens with the\nstudents who complete their 6 tracks of scope courses? If an orientation or planned information in\nwritten was provided, then | would surely go fora YES\n\nProposing semester long internship sounds good and core industries require that much duration for\ninternships but for that purpose, compressing the semesters duration, i feel risky because managing\nall subjects study, journal submissions, assignments & final year project will be very difficult for a slow\nlearner or an average student. In case students get low score or may get kt in the final year, those\nstudents won't be able to get placement in good company, so doing that internship won't help."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 5.258717060089111,
+        "source_metadata": {
+          "source": "0aca789f979e_FRA-FEE-APPROVAL-2023-24.pdf",
+          "title": "0aca789f979e_FRA-FEE-APPROVAL-2023-24.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/FRA-FEE-APPROVAL-2023-24.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "5/15/23, 2:09 PM Online Fee Approval Proposal Portal of FEES REGULATING AUTHORITY - 2023-24\n\nHOME NEWS DOWNLOADS CONTACT LOGIN\n\nAll institutions/Colleges to take note that the fees as notified by the Fees Regulating Authority as\n‘No Upward Revision of fees’ as well as ‘Upward Revision of fees’ for the academic year 2023-2024\nmust be displayed course-wise on the Notice Board as well as the Website of the\nInstitutions/Colleges in Marathi and English and in case of linguistic minority institution the fees\nshall also be displayed in the language of minority belongs as provided under section 14(4) of the\nMaharashtra Unaided Private Professional Educational Institutions (Regulation of Admissions and\nFees) Act, 2015 which reads as under.\n\"(4) Every unaided institution shall display on its notice board, the course-\nwise fees as approved by the Fees Regulating Authority and on its website\nin Marathi and English, provided that in case of linguistic minority\ninstitutions, the display shall also be in the language of the minority to\nwhich such, institution belongs and shall be binding on the students and\nthe institution.”\n\nThe non-compliance above quoted statutory provision by any Institution/College is liable for\npenal consequences as provided u/s 20 of the Act of 2015.\n\n‘e Fees Search for Institute\n\n \n\nGet Report\n\n \n\n \n\n \n   \n   \n   \n   \n   \n\n \n\n  \n\nANJUMAN-I-\nISLAM'S M.H.\nSABOO SIDDIK\nCOLLEGE OF\nENGINEERING,\nBYCULLA,MUMBAI\n\nThis Fees is subject to change.\n\nAbout Us (indexphp) | News (outer.php?q=16) | Contact Us (outer.php?q=15)\nCopyright © 2021. All rights reserved."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 5.2338151931762695,
+        "source_metadata": {
+          "source": "0aca789f979e_FRA-FEE-APPROVAL-2023-24.pdf",
+          "title": "0aca789f979e_FRA-FEE-APPROVAL-2023-24.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/FRA-FEE-APPROVAL-2023-24.pdf",
+          "type": "pdf",
+          "page": 2
+        },
+        "text": "§/15/23, 2:10 PM Online Fee Approval Proposal Portal of FEES REGULATING AUTHORITY - 2023-24\n\nHOME NEWS DOWNLOADS CONTACT LOGIN\n\nAll institutions/Colleges to take note that the fees as notified by the Fees Regulating Authority as\n‘No Upward Revision of fees’ as well as ‘Upward Revision of fees’ for the academic year 2023-2024\nmust be displayed course-wise on the Notice Board as well as the Website of the\nInstitutions/Colleges in Marathi and English and in case of linguistic minority institution the fees\nshall also be displayed in the language of minority belongs as provided under section 14(4) of the\nMaharashtra Unalded Private Professional Educational Institutions (Regulation of Admissions and\nFees) Act, 2015 which reads as under:\n\"(4) Every unaided institution shall display on its notice board, the course-\nwise fees as approved by the Fees Regulating Authority and on its website\nin Marathi and English, provided that in case of linguistic minority\ninstitutions, the display shall also be in the language of the minority to\nwhich such, institution belongs and shall be binding on the students and\nthe institution.”\n\nThe non-compliance above quoted statutory provision by any Institution/College is liable for\npenal consequences as provided u/s 20 of the Act of 2015.\n\n\\ Fees Search for Institute\n\n \n\n \n\n \n\n \n\n \n\nThis Fees is subject to change.\n\nAbout Us (indexphp) | News (outer.php?q=16) | Contact Us (outer.php?q=6)\nCopyright © 2021. all rights reserved.\n\nVisitors Count: 426667\n\nhttps://ay23-24,mahafraportal.org/ss|_prp_22/outer.php?q=fee_search_report\n\nwi"
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 20,
+        "score": 5.479017734527588
+      },
+      {
+        "label": "Source 2",
+        "title": "0aca789f979e_FRA-FEE-APPROVAL-2023-24.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/FRA-FEE-APPROVAL-2023-24.pdf",
+        "page": 1,
+        "score": 5.258717060089111
+      },
+      {
+        "label": "Source 3",
+        "title": "0aca789f979e_FRA-FEE-APPROVAL-2023-24.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/FRA-FEE-APPROVAL-2023-24.pdf",
+        "page": 2,
+        "score": 5.2338151931762695
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q10",
+    "category": "factual",
+    "question": "What placement or career-related information does the institute publish?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "The institute publishes placement or career-related information through written plans, temporary dates, and orientation materials.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0008,
+    "generation_time_seconds": 12.7419,
+    "total_time_seconds": 12.7427,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 7.935652256011963,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 20
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\nThe college will need to be more proactive in getting internships which are not coding based\n\nthis idea about internship is good. because of this student will learn more practically and this will help\nfor future\n\n \n\nInternship will always help us build our career, but the main thing is we as a student are concerned\nabout the 7th semester. Because we still are not clear about the plan of what will actually happen in\nthat semester, what will be the grading scheme, adding all the core subjects should not turn out a\nburden because we will already have placements going along with BE project. So if the entire idea of\nwhat will happen in 7th semester, evaluation techniques, a drafted plan along with temporary dates\nwould be a good help for a student to prepare himself accordingly. And also what happens with the\nstudents who complete their 6 tracks of scope courses? If an orientation or planned information in\nwritten was provided, then | would surely go fora YES\n\nProposing semester long internship sounds good and core industries require that much duration for\ninternships but for that purpose, compressing the semesters duration, i feel risky because managing\nall subjects study, journal submissions, assignments & final year project will be very difficult for a slow\nlearner or an average student. In case students get low score or may get kt in the final year, those\nstudents won't be able to get placement in good company, so doing that internship won't help."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 6.983757495880127,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 14
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\nAny other comment or suggestion? If you have selected NO for question 1 then\nplease mention why?\n\nMore insight about the companies coming for placement must be provided\n\nWhile | laud the initiative, | must say that as a student whose career is at stake | have the following\nconcerns which should be addressed. Firstly, if the college is to move to a placement process dictated\nby industrial training/internships after 3rd year, assurances must be given that opportunities will not\nlessen in number or quality. Secondly, there should be a contingency in place for those students who\neither are unable to secure internships and consequently PPOs, or those that have unsatisfactory\nexperiences at the internship. Said contingency must be in the form of a stand alone placement policy\nsuch as the one that already exists for BE students in status quo.\n\n       \n    \n   \n   \n   \n     \n \n\n  \n\n   \n \n   \n\nInternship will definitely be a differentiating factor between us and all other students from other\ninstitutes. But what matters the most is the quality of the internship ,which company or startup it is. if\nonly a selected few get good companies and rest all get or don't get internship then what will\nhappen.Doing internship in which work doesn't add to your resume then there is no point doing\ninternship\nWe want to make sure that everyone who are getting internships must get opportunity to apply for\nplacement if they are not placed by the interned compan\nnone\n\nWe request you to give a brief and clear explanation on the upcoming changes to be made in the\ncurricular."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 6.038094520568848,
+        "source_metadata": {
+          "source": "23ebf08dccfe_11-GB-MOM.pdf",
+          "title": "23ebf08dccfe_11-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/11-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 11
+        },
+        "text": "Bharatiya Vidya Bhavan’s\nSARDAR PATEL INSTITUTE OF TECHNOLOGY\n\n(Autonomous)\nMunshi Nagar, Andheri(W), Mumbai — 400 058.\n\n \n\nShri Mhatre finally summarized the discussions and suggested to follow what\nGovernment does for the recovery, redesignate these faculty members and withhold\nthe future increments/pay revision benefits till the Government takes decision\nregarding recovery from the cases with Government.\n\nResolution 03(H)/11 : The GB resolves to make the necessary correction in the ot\"\n\npay fixation for faculty members who were promoted to Lecturer selection grade\nafter 01-01-2006. The GB further resolves to redesignate them as Assistant Professor\nfrom their present designation of Associate Professor. However, the due recovery is\nnot to be initiated till the Government starts such recovery for the faculty in\nGovernment institutions/aided institutions. The 7** pay implementation of these\nfaculty members is to be put on hold. They need to be paid as per the corrected\nfixation.\n\n4. Revision of pay scale, minimum qualification, and Career Advancement\nregulations.\n\nPrincipal briefed the GB about the rationale. He pointed out that as authorities\nlike AICTE, GOM and UoM work asynchronously, several problems arise. It brings ina\nlot of confusion and decision making becomes difficult. He stressed the necessity of\nclarity in this regard from the GB. He suggested that Hon. Supreme Court has ruled\nout that in case of differences in two regulatory authorities, the apex authority will\nprevail. AICTE prescribes the scales and minimum qualifications for the various\npositions. So far institute has followed the UoM for qualifications, GoM resolutions for\nthe CAS. Further he informed that different universities in the State adopt the AICTE\nnorms differently adding to the confusion. Though AICTE spells out the minimum\nrequirements, at a times even the Government and University enjoy the autonomy to\ndilute these conditions."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 20,
+        "score": 7.935652256011963
+      },
+      {
+        "label": "Source 2",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 14,
+        "score": 6.983757495880127
+      },
+      {
+        "label": "Source 3",
+        "title": "23ebf08dccfe_11-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/11-GB-MOM.pdf",
+        "page": 11,
+        "score": 6.038094520568848
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q11",
+    "category": "multi_document",
+    "question": "Using the official sources, summarize the undergraduate programmes and the departments associated with them.",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "Undergraduate programmes and departments associated with them are as follows:\n\n1. Electronics Engineering\n2. Computer Engineering\n3. Information Technology\n4. Bachelor of Science (B.Sc.) in Electronics\n5. Bachelor of Science (B.Sc.) in Computer Engineering\n6. Bachelor of Science (B.Sc.) in Information Technology\n7. Master of Science (M.Sc.) in Electronics\n8. Master of Science (M.Sc.) in Computer Engineering\n9. Master of Science (M.Sc.) in Information Technology\n10. Bachelor of Science (B.Sc.) in Electrical Engineering\n11. Bachelor of Science (B.Sc.) in Mechanical Engineering\n12. Bachelor of Science (B.Sc.) in Civil Engineering\n13. Bachelor of Science (B.Sc.) in Industrial Engineering\n14. Bachelor of Science (B.Sc.) in Management Information Systems\n15. Bachelor of Science (B.Sc.) in Computer Science\n16. Bachelor of Science (B.Sc.) in Electrical Engineering\n17. Bachelor of Science (B.Sc.) in Mechanical Engineering\n18. Bachelor of Science (B.Sc.) in Civil Engineering\n19. Bachelor of Science (B.Sc.) in Industrial Engineering\n20. Bachelor of Science (B.Sc.) in Management Information Systems\n\nThese programs and departments are affiliated with the Bharatiya Vidya Bhavan’s, Sardar Patel Institute of Technology, Mumbai, Maharashtra.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0008,
+    "generation_time_seconds": 27.2241,
+    "total_time_seconds": 27.2248,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 5.471582889556885,
+        "source_metadata": {
+          "source": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "Code of Conduct for Students of SPIT-2023 \n \n \n                                 Sardar Patel Institute of Technology  \n       Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058, India \n                                          (Autonomous College Affiliated to University of Mumbai) \n \n \n CODE OF CONDUCT FOR STUDENTS \n \nPreamble: \nWe at Bharatiya Vidya Bhavan’s, Sardar Patel Institute of Technology have introduced a code of \nconduct for the students, to foster the scholarly and civic development of the students in a safe and \nsecure learning environment, and to protect the people, properties and processes that support the \ninstitute and its missions. The code of conduct comprises the instructions obliging the students \nenrolled for various programmes/courses in the college and have to abide by the same. It is \npertinent for the students to be aware of the rules and regulations, protect their rights and \nbecome more responsible towards the institution. \nThe student code of conduct defines acceptable behaviour and social norms that  all students in \nBhartiya Vidya Bhavan's, Sardar Patel Institute of Technology, Mumbai, Maharashtra should adopt \non a day-to-day basis. All students, pursuing undergraduate, post-graduate, research Ph.D. and those \nwho are withdrawn from the rolls on temporary basis for a semester or for an academic year for \nvarious reasons, but continue their relationship with the Institution, or who have been notified of \ntheir acceptance for admission must align their actions with the ethos of the institute.  \nThe code should be adhered to by all the students enrolled in various programmes/courses in the \ncollege, while they are in campus as well representing college off-campus.  The code is available on \nthe institute official website for students’ reference. \nTo ensure that, Bharatiya Vidya Bhavan’s, Sardar Patel Institute of Technology, prescribes the \nfollowing code of conduct for its students: \n \nCode of Conduct for Students are as follows: \n \n1."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 5.227998733520508,
+        "source_metadata": {
+          "source": "0f5f9448c832_Sponsored-by-AICTE-ATAL-FDP-on-AI-in-Healthcare-and-Agriculture.pdf",
+          "title": "0f5f9448c832_Sponsored-by-AICTE-ATAL-FDP-on-AI-in-Healthcare-and-Agriculture.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/08/Sponsored-by-AICTE-ATAL-FDP-on-AI-in-Healthcare-and-Agriculture.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "In 1995 self-financed engineering courses were added to it and it functioned as Sardar Patel College of Engineering (Unaided-wing) conducting Electronics Engineering, Computer Engineering and Information Technology Courses and Masters course in Electronics from 2005 till 2008. These courses have earned a great reputation in the field of engineering education, as well as industry. Bharatiya Vidya Bhavan’s Sardar Patel College of Engineering, Unaided Wing was established in its new building under the name and style of Bharatiya Vidya Bhavan’s Sardar Patel Institute of Technology in 2005 and is affiliated to Mumbai University. .\nAbout the institute\nAbout the Department\nSPONSORED BY AICTE TRAINING AND\nLEARNING (ATAL) ACADEMY.\n ONE WEEK OFFLINE FACULTY DEVELOPMENT\nPROGRAM ON \n“From Data to Impact: AI in Healthcare and\nAgriculture”\n09th – 14th DECEMBER 2024\nORGANIZED BY \nCOMPUTER SCIENCE AND ENGINEERING\nDEPARTMENT\nIN ASSOCIATION WITH IDEALab SPIT\nSardar Patel Institute of Technology\nMunshi Nagar, Andheri (W),\nMumbai 400 058\nProgramme Coordinator:\nDr. D. R. Kalbande\nProfessor, S.P.I.T.\nProgramme Co-coordinator:\nDr. Renuka Pawar\nAssistant Professor, S.P.I.T"
+      },
+      {
+        "rank": 3,
+        "bm25_score": 4.142512798309326,
+        "source_metadata": {
+          "source": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "title": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "type": "pdf",
+          "page": 11
+        },
+        "text": "7\nDr. Prasenjit Bhavathankar\nAn Approach to Reduce Uncertainty Problem in Network Intrusion Detection Systems\n8\nProf. Renuka Pawar\nUse of Blockchain Technology in Wireless Body Area Networks\n9\nProf. Jignesh Sisodia\nMachine Learning Approach For Analysis Of The\n Company Performance Based On Fundamental Data\n10\nProf. Varsha Hole\nUser engagement recognition using transfer learning and multi task classification\n11\nProf. Varsha Hole\nAn analysis of Convolutional neural networks and it's applications\n12\nProf. Varsha Hole\nAbstractive summarization of Amazon Reviews\n13\nProf. Aparna Halbe\nA quantitative approach to create a Hybrid stock filtering platform\n14\nProf. Nikahat Mulla\nAutonomous Flying using Deep Reinforcement Learning\n15\nDr. Radha Shankarmani\nA Self Learning Chat-Bot From User Interactions and Preferences,\n16\nProf. Kailas Devadkar\nA Survey: Mobile Cloud Computing in Education\n17\nProf. Kailas Devadkar\nVirtual Assistant for the Visually Impaired\n18\nDr. Prasenjit Bhavathankar\nBlockchain Based Direct Benefit Transfer System For Subsidy Delivery\n19\nProf. Renuka Pawar\nCategorizing Driving Patterns Based On Telematics\n Data Using Supervised And Unsuperivsed Learning\n20\nProf. Jignesh Sisodia\nA Cost-Efficient and Time Saving Exercise Posture Monitoring System\n21\nProf. Varsha Hole\nCreation Of Face For Aiding In Forensic Investigation Based On\n22\nProf. Varsha Hole\nAbstractive Text summarization On Google Search Results\n23\nProf."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+        "page": 1,
+        "score": 5.471582889556885
+      },
+      {
+        "label": "Source 2",
+        "title": "0f5f9448c832_Sponsored-by-AICTE-ATAL-FDP-on-AI-in-Healthcare-and-Agriculture.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/08/Sponsored-by-AICTE-ATAL-FDP-on-AI-in-Healthcare-and-Agriculture.pdf",
+        "page": 1,
+        "score": 5.227998733520508
+      },
+      {
+        "label": "Source 3",
+        "title": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+        "page": 11,
+        "score": 4.142512798309326
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q12",
+    "category": "multi_document",
+    "question": "Combine the official information about admissions and the relevant academic programmes for a prospective applicant.",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "To provide a comprehensive list of the official information about admissions and the relevant academic programmes for a prospective applicant, please refer to the following:\n\n**Admissions Statistics:**\n- **First-Year UG Programs:** The number of applicants for first-year UG programs is provided.\n- **Second-Year UG Programs:** The number of applicants for second-year UG programs is also given.\n\n**Programmes:**\n- **Ug Programs:** The details of the Ug programs are provided, including the number of applicants and the specific courses offered.\n- **PG Programs:** The details of the PG programs are also provided, including the number of applicants and the specific courses offered.\n- **MCA Programs:** The details of the MCA programs are provided, including the number of applicants and the specific courses offered.\n\nPlease note that these figures are indicative and may vary depending on the specific year and type of programme being considered.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0011,
+    "generation_time_seconds": 19.5445,
+    "total_time_seconds": 19.5456,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 8.062511444091797,
+        "source_metadata": {
+          "source": "0ff1a38eecca_Minutes-of-ACM-6.pdf",
+          "title": "0ff1a38eecca_Minutes-of-ACM-6.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/Minutes-of-ACM-6.pdf",
+          "type": "pdf",
+          "page": 6
+        },
+        "text": "Sardar Patel Institute of Technology \nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058, India \n(Autonomous College Affiliated to University of Mumbai) \n \ndepartments have appreciated and approved the combined \ncurriculum for the common courses. Dr. Jonathan Joshi insisted \nto retain the core courses like VLSI, Computer Architecture etc. \nwhile drafting scheme of such program after merging. All \nexternal members of the council welcomed this proposal.   \n \n2. Dr. B. N. Chaudhari proposed the expansion by a way of addition \nof two programs:  \nB. Tech. Computer Engineering (AI and Machine Learning) \nB. Tech. Computer Engineering (Data Science) \nDr. Rathod mentioned that it may not be possible to merge the \nElectronics and Electronics & Telecommunication programs as \naccording to Approval Process Handbook it may not be \npermitted. Dr. Chaudhari informed that the Institute has \ninformally confirmed with the AICTE officials. However he \ninformed about the difficulty in the portal for electronics merger.  \n \nResolution \n \nAll the members principally agreed for the merger of the said \nbranches and approved unanimously the recommendation of \naddition of the new branches  \n \nAt the end Principal Dr. Chaudhari thanked all the members of academic council, particularly external \nmembers for their valuable inputs and discussions. He remarked that SPIT will carefully look at the \ninput from every corner. Dr. Shubha Pandit appreciated this thought process and open ness.  \n \nDr. Kalbande proposed vote of thanks to conclude the meeting.  \n \n \nDean Academics\nPrincipal"
+      },
+      {
+        "rank": 2,
+        "bm25_score": 6.73866081237793,
+        "source_metadata": {
+          "source": "0ff1a38eecca_Minutes-of-ACM-6.pdf",
+          "title": "0ff1a38eecca_Minutes-of-ACM-6.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/Minutes-of-ACM-6.pdf",
+          "type": "pdf",
+          "page": 5
+        },
+        "text": "Sardar Patel Institute of Technology \nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058, India \n(Autonomous College Affiliated to University of Mumbai) \n \n5. While presenting PG schemes, Dr. Jonathan Joshi raised query about \nthread electives and asked whether pre-requisites are to be fulfilled \nfor courses in the thread electives. Dr. Chaudhari clarified it by \nmentioning the relevance of courses to each other and clarified that \nthe pre-requisites must be fulfilled while opting for the courses from \nthread electives. \n  \nResolution \nThe Changes in the curriculum for UG, PG and MCA, First and Second-\nYear Syllabi was unanimously approved subject to concerns on \ninitiatives such as Honors Certification and Six-month Industry \nInternship. Principal Dr. B. N. Chaudhari assured to take necessary \nsteps to revisit it based on the suggestions received and the feedback \nreceived from Industry Experts.  \n \n \n \n7) Information about \nAdmission Statistics \n \n8) Information about \nPlacement and \nInternships \nDiscussion \n \nDr. Sutar Presented the Admission Statistics of First-Year UG \nprograms. Dr Chaudhari informed about admission scenario. Dr. \nSutar while presenting placement and internship statistics thanked \nthe Training and Placement office for their sincere efforts in breaking \nthe previous records.    \n \n \n \n \n9) Recommendations for \nmerger of the UG \nprograms \n \n10) Starting New Programs \nat undergraduate level \nDiscussion \n1. Dr. Sutar opened the discussion on the possible merger of \nElectronics and Electronics & Telecommunication to “Electronics \nand Telecommunication”. Merger of Computer Engineering and \nInformation Technology to Computer Engineering was also \nproposed. Dr. Shubha Pandit pointed out regarding the \ndifficulties in merging and advised to handle the issue carefully \nwhile dealing with the Cadre Ratio and Sonority of faculty."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 5.859847545623779,
+        "source_metadata": {
+          "source": "1fc3a50929d1_code-of-conduct-for-faculty.pdf",
+          "title": "1fc3a50929d1_code-of-conduct-for-faculty.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/code-of-conduct-for-faculty.pdf",
+          "type": "pdf",
+          "page": 4
+        },
+        "text": "42. A teacher shall not engage himself as a selling agent or canvasser for any published firm or \ntrader. \n43. A teacher shall not furnish incorrect information regarding his qualifications, experience, age \netc. in respect of the appointment/promotion. \n44. A teacher shall not raise questions of caste, creed, religion, race or sex in his relationship with \nhis colleagues and trying to use the above considerations for improvement of his prospects. \n45. No teacher shall drink alcohol while on duty or be found drunk during working hours. He shall \nnot be under the influence of any intoxicating drink or drug during the course of his duty. \n46. A teacher shall not smoke in the classroom during working hours or in any place within the \ncampus of the Institution. \n47. A teacher shall not except in accordance with any general or special order of the University of \nthe Institution, as the case may be, or in the performance in good faith or duties assigned to \nhim/her divulge or communicate directly any official document or other information \nwhatsoever to any teacher or to any other person to whom he/she is not authorized to divulge \nor communicate such documents or information. A teacher shall not divulge privileged or \nclassified information or document to any person or body that is not entitled to have access \nto such information or document. \n48. A teacher shall not misappropriate institution’s property or commit acts of theft, fraud or \nembezzlement of funds. \n49. A teacher shall submit report of the project/activity undertaken by him along with the \nstatement of accounts (with all vouchers) to the sponsoring agency within a stipulated time. \n50. A teacher shall not obstruct staff of the institution from performing their lawful duties and \nindulging in any sort of agitation to coerce of embarrass institution authorities. \n51."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "0ff1a38eecca_Minutes-of-ACM-6.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/Minutes-of-ACM-6.pdf",
+        "page": 6,
+        "score": 8.062511444091797
+      },
+      {
+        "label": "Source 2",
+        "title": "0ff1a38eecca_Minutes-of-ACM-6.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/Minutes-of-ACM-6.pdf",
+        "page": 5,
+        "score": 6.73866081237793
+      },
+      {
+        "label": "Source 3",
+        "title": "1fc3a50929d1_code-of-conduct-for-faculty.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/code-of-conduct-for-faculty.pdf",
+        "page": 4,
+        "score": 5.859847545623779
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q13",
+    "category": "multi_document",
+    "question": "What do the available official sources say about both placements and career development opportunities?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "I could not find sufficient relevant information in the SPIT knowledge base to answer this question.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0008,
+    "generation_time_seconds": 13.0899,
+    "total_time_seconds": 13.0907,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 13.13061237335205,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 14
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\nAny other comment or suggestion? If you have selected NO for question 1 then\nplease mention why?\n\nMore insight about the companies coming for placement must be provided\n\nWhile | laud the initiative, | must say that as a student whose career is at stake | have the following\nconcerns which should be addressed. Firstly, if the college is to move to a placement process dictated\nby industrial training/internships after 3rd year, assurances must be given that opportunities will not\nlessen in number or quality. Secondly, there should be a contingency in place for those students who\neither are unable to secure internships and consequently PPOs, or those that have unsatisfactory\nexperiences at the internship. Said contingency must be in the form of a stand alone placement policy\nsuch as the one that already exists for BE students in status quo.\n\n       \n    \n   \n   \n   \n     \n \n\n  \n\n   \n \n   \n\nInternship will definitely be a differentiating factor between us and all other students from other\ninstitutes. But what matters the most is the quality of the internship ,which company or startup it is. if\nonly a selected few get good companies and rest all get or don't get internship then what will\nhappen.Doing internship in which work doesn't add to your resume then there is no point doing\ninternship\nWe want to make sure that everyone who are getting internships must get opportunity to apply for\nplacement if they are not placed by the interned compan\nnone\n\nWe request you to give a brief and clear explanation on the upcoming changes to be made in the\ncurricular."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 10.48173713684082,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 20
+        },
+        "text": "In case students get low score or may get kt in the final year, those\nstudents won't be able to get placement in good company, so doing that internship won't help. If this\nkind of internship sem is gonna taken then college should assure that every student will get internship\naccording to their field of interest because most of the companies offer IT sector's work profile and I'd\nlike to work with core industry, so this provision should be there or students should allow to do\ninternship found by their own or else both 7th & 8th sem should be taken as is it is as per autonomy &\nfurther 16 weeks or 6 months internship program should be taken additionally.\n\nIt's a great idea to permit students to opt for intership during 8th semester and students will have a\ngood opportunity. (As they will gain practical knowledge).\n\nMy concern is about the idea of two semesters(7th and 8th) to be completed in time span of 7 months\n(May to June, | assume). As there will be also Final year project and Placement opportunity during that\nperiod, it may become haptic for students to manage it. If we get to know in detail, how 7th and 8th\nsemester will be conducted (like what will be the subjects, syllabus, paper pattern, etc), it will help\nstudents to take firm decision on this proposed idea.\n\n| have selected YES.\n\nMany students have already made plans fornthe future and started preparations for it. Changing the\nacademic curriculum suddenly without a transition state would be highly problematic for the students\nfuture\n\nVery good idea but enough internship opportunities at good companies must be provided\n\nSuggestion:\n| would prefer internship immediately after 6th sem\n\nNo\nNope\n\nMore number dream and super dream companies to come that guarantee more placements"
+      },
+      {
+        "rank": 3,
+        "bm25_score": 9.571714401245117,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 20
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\nThe college will need to be more proactive in getting internships which are not coding based\n\nthis idea about internship is good. because of this student will learn more practically and this will help\nfor future\n\n \n\nInternship will always help us build our career, but the main thing is we as a student are concerned\nabout the 7th semester. Because we still are not clear about the plan of what will actually happen in\nthat semester, what will be the grading scheme, adding all the core subjects should not turn out a\nburden because we will already have placements going along with BE project. So if the entire idea of\nwhat will happen in 7th semester, evaluation techniques, a drafted plan along with temporary dates\nwould be a good help for a student to prepare himself accordingly. And also what happens with the\nstudents who complete their 6 tracks of scope courses? If an orientation or planned information in\nwritten was provided, then | would surely go fora YES\n\nProposing semester long internship sounds good and core industries require that much duration for\ninternships but for that purpose, compressing the semesters duration, i feel risky because managing\nall subjects study, journal submissions, assignments & final year project will be very difficult for a slow\nlearner or an average student. In case students get low score or may get kt in the final year, those\nstudents won't be able to get placement in good company, so doing that internship won't help."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 14,
+        "score": 13.13061237335205
+      },
+      {
+        "label": "Source 2",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 20,
+        "score": 10.48173713684082
+      },
+      {
+        "label": "Source 3",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 20,
+        "score": 9.571714401245117
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q14",
+    "category": "multi_document",
+    "question": "Summarize the institute's academic offerings using information from more than one relevant source.",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "Based on the retrieved context, the Sardar Patel Institute of Technology offers various academic programs and services. Here are the key points summarized from multiple sources:\n\n1. **Academic Programs**:\n   - **Bachelor of Science (B.Sc.)**: This program focuses on engineering disciplines, providing hands-on experience and practical training.\n   - **Master of Science (M.Sc.)**: Offered in areas like computer science, electrical engineering, and mechanical engineering.\n   - **Doctor of Philosophy (Ph.D.)**: Specializes in advanced research and provides comprehensive education in fields like mathematics, physics, and computer science.\n\n2. **Research Opportunities**:\n   - **Sponsored Research**: Offers financial support for research projects, particularly in engineering and technology sectors.\n   - **Consultancy Projects**: Provides opportunities for students to work on consulting projects, enhancing their professional skills and networking.\n\n3. **Facilities and Resources**:\n   - **Physical Facilities**: Includes lifts, ramps, and wheelchair-accessible facilities.\n   - **Student Support Services**: Offers counseling, tutoring, and career guidance to assist students in achieving their goals.\n\n4. **Career Development**:\n   - **Internships and Workshops**: Organize regular internships and workshops to prepare students for future employment.\n   - **Management Courses**: Provide courses in management and business administration to equip students with essential skills for success in their chosen field.\n\n5. **Graduation Requirements**:\n   - **Completion of 7th Semester**: Ensures a",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0011,
+    "generation_time_seconds": 27.0859,
+    "total_time_seconds": 27.087,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 7.806313514709473,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 113
+        },
+        "text": "BharatiyaVidyaBhavan’s  \nSARDAR PATEL INSTITUTE OF TECHNOLOGY  \nMunshi Nagar, Andheri (W), Mumbai – 400 058.  \n \n  \n(Autonomous Institute Affiliated to \nthe University of Mumbai)  \n  \n  \nroject Based Learning 8/10  \nApplication based  \nIdk  \nWhen teacher uses more examples/Diagrams to explain concept -5  \nThe teaching methodology I would appreciate the most is one focused on how we can convert classroom \nknowledge to real world applications. The mini project was nice but there was no solid guidance given to \nhave the coding skills and other abilities required to do a good job. My mentor wanted us to do all the \nwork and not give any help at all.  \nLess dependance on ppt and more oral explanation  \nIntroduction of Mini Projects  \nLearning through lab experiments 4  \nPractical learning  \nClear explaination with many example solving  \n3  \nThe Project based Learning and the way Mini Project was conducted is really commendable Interactive \nclasses are good, the one in which teacher asks questions to students.  \n-  \nLearning by doing projects - 4/5  \nMethodology which Narendra Bhagat Sir uses and rating is 5  \nDifferent activities in class which helped in remembering the concept better.  \nUse of smartboards for teaching is something I like the most but more visual effects must be used there \nand it should be available to each and every course.  \nPractical approach - 4/5  \nActivity based teaching 4/5  \nI would give 5/5 star for teaching style interactive learning with some real world problem explanation \nand clearing concepts through that questions  \n9/10 NA  \nthey teach step by step everything  \nIn class examples and simultaneously solving sums in class rather than reading from pdf  \n.  \nTraditional classroom teaching with application based rather than memorization.  \nInteractive, experimental  \nProject-Based Learning."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 6.908871173858643,
+        "source_metadata": {
+          "source": "0f315edd74b3_NIRF_2025_Engineering.pdf",
+          "title": "0f315edd74b3_NIRF_2025_Engineering.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/02/NIRF_2025_Engineering.pdf",
+          "type": "pdf",
+          "page": 3
+        },
+        "text": "Sponsored Research Details\nFinancial Year\n2023-24\n2022-23\n2021-22\nTotal no. of Sponsored Projects\n3\n8\n3\nTotal no. of Funding Agencies\n3\n3\n3\nTotal Amount Received (Amount in Rupees)\n46914000\n60491471\n22965761\nAmount Received in Words\nFour Crore Sixty Nine Lakh and Fourteen Thousand\nSix Crore Four Lakh Ninty One Thousand Four Hundred\nSeventy One\nTwo Crore Twenty Nine Lakh Sixty Five Thousand Seven\nHundred Sixty One\nConsultancy Project Details\nFinancial Year\n2023-24\n2022-23\n2021-22\nTotal no. of Consultancy Projects\n2\n1\n3\nTotal no. of Client Organizations\n2\n1\n3\nTotal Amount Received (Amount in Rupees)\n1200000\n200000\n450000\nAmount Received in Words\nTweleve Lakh\nTwo Lakh\nFour Lakh Fifty Thousand\nPCS Facilities: Facilities of physically challenged students\n1. Do your institution buildings have Lifts/Ramps?\nYes, more than 80% of the buildings\n2. Do your institution have provision for walking aids, including wheelchairs and transportation from one building to another for\nhandicapped students?\nYes\n3. Do your institution buildings have specially designed toilets for handicapped students?\nYes, more than 80% of the buildings\nFaculty Details\nSrno\nName\nAge\nDesignation\nGender\nQualification\nExperience (In\nMonths)\nCurrently working\nwith institution?\nJoining Date\nLeaving Date\nAssociation type\n1\nYerramreddy\nSrinivasa  Rao\n57\nProfessor\nMale\nPh.D\n425\nYes\n03-01-2000\n--\nRegular\n2\nParmar Manish\nMeghjibhai\n56\nAssociate Professor\nMale\nM.E."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 6.879431247711182,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 18
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\nCredit Suisse I.e superdream are comming than that will be really beneficial for all the students and\nmany will change their decision from NO. Even 100% placement is doubted and many are thinking to\nget 100% ,college will bring SP-TBI startups that no one will be willing to join after completing 7th sem\nas they are not reputed enough and does not provide stipend.\n\nSo, if we are guaranteed that the number of super dream companies are increased and,\nEveryone will be placed in decent companies than it is definitely yes from my side.\n\nnone\nToo much burden in the final year\n\nIt would be tedious for the students. Completion of syllabus and lectures will be cramped, thus\nincreasing stress on students.\n\nPa\n°o\n\nIt won't benefit me for higher studies\n7 th semester should have all the important topic of 7&8 both semester\n\n \n\nCollege should try to offer research internships too\nIt would be great if your MOOC courses have management courses.\nKindly take any decision keeping in mind the possibility that many wont be able to have such a long\ninternship i.e 4 months\nit will be very heptic for the students and will be very difficult for those who will be going for higher\nstudies\nThe 8th semester internship won't help me with my choice of university for MS\nThe schedule is very hectic and risky and cannot be implemented for current TE students at this point\nof time. It needs more planning."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 113,
+        "score": 7.806313514709473
+      },
+      {
+        "label": "Source 2",
+        "title": "0f315edd74b3_NIRF_2025_Engineering.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/02/NIRF_2025_Engineering.pdf",
+        "page": 3,
+        "score": 6.908871173858643
+      },
+      {
+        "label": "Source 3",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 18,
+        "score": 6.879431247711182
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q15",
+    "category": "multi_document",
+    "question": "What official information is available about campus facilities and student activities?",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "I can provide information about campus facilities and student activities, but it is not directly related to the specific topic of internship proposals. Therefore, I cannot provide a direct answer to the user's request.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0008,
+    "generation_time_seconds": 13.2538,
+    "total_time_seconds": 13.2546,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 8.181244850158691,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 20
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\n\n \n\nThe college will need to be more proactive in getting internships which are not coding based\n\nthis idea about internship is good. because of this student will learn more practically and this will help\nfor future\n\n \n\nInternship will always help us build our career, but the main thing is we as a student are concerned\nabout the 7th semester. Because we still are not clear about the plan of what will actually happen in\nthat semester, what will be the grading scheme, adding all the core subjects should not turn out a\nburden because we will already have placements going along with BE project. So if the entire idea of\nwhat will happen in 7th semester, evaluation techniques, a drafted plan along with temporary dates\nwould be a good help for a student to prepare himself accordingly. And also what happens with the\nstudents who complete their 6 tracks of scope courses? If an orientation or planned information in\nwritten was provided, then | would surely go fora YES\n\nProposing semester long internship sounds good and core industries require that much duration for\ninternships but for that purpose, compressing the semesters duration, i feel risky because managing\nall subjects study, journal submissions, assignments & final year project will be very difficult for a slow\nlearner or an average student. In case students get low score or may get kt in the final year, those\nstudents won't be able to get placement in good company, so doing that internship won't help."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 8.075883865356445,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 10
+        },
+        "text": "E OF\nOk\nSardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute Affiliated to University of Mumbai)\nI agree as long as there are at least 1 or 2 options of my areas of interest\nStudents should be given options for choosing MOOC courses. MOOC course should be from a\nreputed University and should have standalone value in future.\nI think this is a great system. The students who have joined the SCOPE courses would especially\nbenefit from this system.\nShould not be hectic for students\nGood.\nNo\nNo\nNo\nIt should be completed as soon as possible\nNo\nDon't know what this means.\nFine only if it is not a burden.\nFine only if it is not a burden.\nFine.\nSounds good\nFine but we will not be able to do projects and take part in competitions for the entire year because the\ncompetitions stretches upto march and april\nNo comments\nClassroom training would be more preferable\nNo\nGood\nOk but they will be on what basis\nFine\nWill be great if you have Management related courses. what\nWill do\nno\nOkay\nOk with it.\nWhat is the need to those 2 mooc courses when we are already having so much to do from summer\nvacation onwards.\nIdea is good, but what platforms of moocs are available for the students should be specified. Also if\nthe necessary hardware is available in college which is required for that mooc, it should be made\navailable for students\nExcellent."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 6.597530841827393,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 16
+        },
+        "text": "Also If the semester has to be shifted , then maybe the vacation after\n\nSemester 5 can be reduced rather than taking things in a hurry in 2019 . | feel that the we are not right\n\nbatch for the implementation of the above policy . However elaborate schedule can be prepared for\n\nthose who are currently in Second year .\n1.Is there any assurance from college that a student can surely get an internship given that student is |\nmore inclined towards internship?\n2.Will college help in securing internship at IIT,NIT,etc?\n3.What kind of internship will be launched by S.P.I.T. professor ?\n4.What happens to a Student unable to secure i.e. exhausted all options?\n\n  \n  \n  \n  \n\n  \n\n \n\n1)It would be great if Etrx Students are able to get internships in their domain rather than in IT or Non-\nTechnical Field.\n\n2) It would be helpful if the confirmation for getting selecting in a particular internship is given as soon\nas possible that is before we submit our applications for various colleges for MS, so that we can\ninclude this internship in our resume.\n\nTE students are too naive to decide what final career they want and doing a 6 month Internship could\nbe a determinetial step in deciding the career of a student, let alone chosing the wrong internship and\nregretting later\n\n  \n \n\n \n\n   \n  \n\n \n  \n   \n\n  \n\n   \n \n   \n\n \n\n  \n \n \n\n \n\nPlease increase number of credits for the internship. Please ensure that the internship will be well\naid.\n\nThe decision has been taken at the last moment. We could have planned our semesters better had we\n| been informed of this earlier.\n\nGood initiative but hope the execution is smooth since 2 semesters are together\n\nNot yet clear about this. Need a clearer vision and talk by hod about the complete implementation of\nthis plan."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 20,
+        "score": 8.181244850158691
+      },
+      {
+        "label": "Source 2",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 10,
+        "score": 8.075883865356445
+      },
+      {
+        "label": "Source 3",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 16,
+        "score": 6.597530841827393
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q16",
+    "category": "comparison",
+    "question": "Compare two undergraduate programmes listed by S.P.I.T., using only details explicitly available in the sources.",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "Both undergraduate programmes listed by S.P.I.T. have been approved by AICTE. However, there is no specific mention of the exact number of students enrolled in each programme. Therefore, without additional data, it's impossible to provide a comparative analysis between these two undergraduate programmes.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0007,
+    "generation_time_seconds": 12.9973,
+    "total_time_seconds": 12.998,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 6.983786582946777,
+        "source_metadata": {
+          "source": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "title": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "type": "pdf",
+          "page": 13
+        },
+        "text": "Srushti Patil\nA Methodical Overview on Phishing Detection Along With An Organized Way to Construct An \nAnti-phishing Framework\n31\nSudhir Dhage, Sanket Agrawal, Rucha Rangnekar, Aditya Das, \nShantanu Gawde\nGauging Customer Interest Using Skeletal Tracking and Convolutional Neural Network\n32\nS. Dhage, R. D’mello, V. Pardeshi, H. Mehta\nComparative Study of Breast Cancer Detection Techniques\n33\nS. Dhage, A. Gaikwad, M. Gopani, R. Mehta\nA Detailed Study and Analysis on Different Machine Learning Solutions Available in the Field of \nFace Tracking\n34\nKiran Gawande, Vaishnavi Sidhamshettiwar, Yash Gaba, Rutika \nJadhav\nCustomer Attrition Estimation Modelling Based on Predominant Attributes feed forward Network\n35\nJyoti Ramteke, Punit Ahuja, Rakshit Gupta, Yogesh Mahajan\nPortfolio Management using Artificial Intelligence"
+      },
+      {
+        "rank": 2,
+        "bm25_score": 5.428641319274902,
+        "source_metadata": {
+          "source": "01ddbf4278c5_10-GB-MOM.pdf",
+          "title": "01ddbf4278c5_10-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 4
+        },
+        "text": "He suggested to use\ntheir energy to build the institute. In the long run their community, nation benefits. He\nremarked that we should teach them that by doing this in the long run they will benefit.\nHe further expressed that this level of depth should be thought of while framing such\nscheme. Appreciating the philosophical inputs from Prof. Gadre, the Chairman\nsuggested to go by Prof. Gadre’s guidance and bring more clarity to this. Dr. Prachi\nGharpure also suggested to put the entire proposal in table form. The Principal assured\nthat this and the student empowerment schemes will be presented again with due\ndeliberations and formulation. Prof. Gadre suggested to place on record the appreciation\nfor Prof Chaudhari for initiating such process.\n\nResolution 05/10 : The GB appreciated the proposals towards faculty empowerment\nschemes and Student empowerment schemes, however, deferred those at present\n\nand directed to put again bringing more clarity.\n\n6. Student Empowerment Schemes\nCovered in Resolution 05/10\n\n7. Appointment of ad-hoc faculty.\nThe Principal briefed the Governing Body regarding the faculty strength at present. He\ninformed that institute had discontinued 17 ad-hoc faculty in June 2020. During\npandemic, institute has optimized the available manpower. From new academic year,\n\ntwo new undergraduate programs which are approved by AICTE will be added. This\nwill increase the intake of the institute to 360 from the present intake of 240. He"
+      },
+      {
+        "rank": 3,
+        "bm25_score": 5.055757522583008,
+        "source_metadata": {
+          "source": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "title": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "type": "pdf",
+          "page": 14
+        },
+        "text": "36\nNataasha Raul, Radha Shankarmani, Padmaja Joshi\nA Comprehensive review of keystroke Dynamics based Authentication Mechanism\n37\nNataasha Raul, Amrita Tulshan\nKrisha: An Interactive Mobile Application for Autism Children\n38\nNataasha Raul, Royston Dmello, Mandar Bhalerao\nKeystroke Dynamics Authentication Using Small Datasets\n39\nProf. Reeta Koshy, Abhishek Padalkar, Neha Nikam,Vinit Jain\nEasy Verdict: Digital Assistant to Resolve Criminal Litigation\n40\nProf. Pramod Bide, Ananya Navelkar, Shrinivasrao Sai \nYerremreddy, Ananya Ojha, Jainam Soni\nA Two stage approach for Detection of Invasive and Cervical Intra-epithelial Neoplasia using \nMachine Learning and Image Processing Methodologies\n41\nAbhijeet Salunke, Soni Bhambar\nComparative Study of Trust and Reputation Security Models in IoT Networks\n42\nAbhijeet Salunke, Soni Bhambar\nComparative Study of Trust and Reputation Security Models in IoT Networks\n2019 IT\n1\nProf. Kailas Devadkar\nBlockchain: A new way to revolutionize CRM systems\n2\nProf. Kailas Devadkar\nA Next Generation Refrigerator on Compartmentalization Concept with\nConsumption Based Ordering\n3\nProf. Kailas Devadkar\nRash Driving Analysis for Safety Enforcement\n4\nProf. Kailas Devadkar\nFood Suggestion Engine Based on Mood\n  – Fomos\n5\nDr. Prasenjit Bhavathankar\nCellular Device Detection in Restricted Premises\n6\nProf."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+        "page": 13,
+        "score": 6.983786582946777
+      },
+      {
+        "label": "Source 2",
+        "title": "01ddbf4278c5_10-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+        "page": 4,
+        "score": 5.428641319274902
+      },
+      {
+        "label": "Source 3",
+        "title": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+        "page": 14,
+        "score": 5.055757522583008
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q17",
+    "category": "comparison",
+    "question": "Compare the admission information available for undergraduate and postgraduate study, if both are documented.",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "Undergraduate Admission Information:\n- No specific details provided regarding undergraduate admission requirements or processes.\n- Limited information about the eligibility criteria, application deadlines, and selection process.\n\nPostgraduate Admission Information:\n- Detailed information about the eligibility criteria, application deadlines, and selection process for postgraduate programs at Sardar Patel Institute of Technology (SPIT).\n- Specific details about the eligibility criteria for postgraduate programs, including the minimum GPA required, course requirements, and other qualifications.\n- Information about the selection process for postgraduate programs, including interviews, essays, and other assessments.\n\nComparison:\n- Undergraduate admission information focuses more on general admission requirements and selection process.\n- Postgraduate admission information provides more specific details about the eligibility criteria, application deadlines, and selection process for postgraduate programs.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0008,
+    "generation_time_seconds": 19.1053,
+    "total_time_seconds": 19.1061,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 6.24280309677124,
+        "source_metadata": {
+          "source": "01ddbf4278c5_10-GB-MOM.pdf",
+          "title": "01ddbf4278c5_10-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 2
+        },
+        "text": "4\nQs\nDc\n&\nx\n\n  \n\nBharatiya Vidya Bhavan’s\nSARDAR PATEL INSTITUTE OF TECHNOLOGY\n\neo 9 (Autonomous)\naires Munshi Nagar, Andheri(W), Mumbai — 400 058.\n\n‘HOS\n\ncourses and starting two new undergraduate courses. Principal thanked Chairman sir\nfor his special efforts in getting the speedy approval from the head office. Chairman\ninquired about when the proposed merger and starting of the new courses will be\neffective. The Principal informed that both will be effective from academic year 21-\n22. Chairman further inquired about the fees approval from the FRA. The Principal\ninformed that the institute has received fees approval from the FRA. Further, the\nPrincipal thanked all the members for detailed deliberations, vital inputs given\ntowards 7‘ pay implementation. He informed the GB about the disbursement of the\narrears for the financial year 20-21. Chairman also expressed the concern about the\nNBA accreditation, which may arise due to this merger, and whether the new courses\nwill come under autonomy or not. Principal answered that all new courses will\nautomatically come under the autonomy and there will not be any issue over the NBA\naccreditation of the programs, as the courses which are merged will continue to exist\ntill next 3 years and will be gradually merged. He further informed that NBA cycle is\nover and we need to apply afresh for the NBA. On this, members expressed that few\nbatches will roll out without NBA. The Principal informed that the extension of the\naccreditation is under pipeline and will be effective for the batches already studying\nin higher classes (second year onwards) and hence there will not be issue of some\nbatch graduating without NBA accreditation status.\n\nResolution 02/10 : The Governing Body has noted the actions taken over the minutes\nof 8** and 9\" meetings.\n\n3."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 6.23583459854126,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 21
+        },
+        "text": "Sardar Patel Institute of Technology\nBhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India\n(Autonomous Institute A ffiliated to University of Mumbai)\n\n \n\n \n\n| think, there will be much stuff to do in less time unnecessarily and will lead to loses. internships are\nnot guaranteed and nor the research projects. a\n\nNo\n|\n4\n\n    \n\n \n\n   \n    \n  \n \n \n   \n   \n   \n\n \n\n \n\n \n\n   \n\n| feel that though the semester-long internship may be a viable option for future batches, the risks\ninvolved for the current batch (expected 2020) far outweigh the success. Those students that only\nwish to opt for the internship and then pursue further studies do not have any option available to them,\nand also will have no industry experience by the time applications are sent to universities for further\nstudies. Furthermore, the crunching down of 2 semesters into essentially one long semester is going\nto be extremely burdensome on the students. The alternative of extending the summer internship in\nthe duration of May-Sept 2019 after the 6th semester seems like a better option as we both get the\nexperience and also have the option of choosing whether or not to sit for placements later on.\n\nYes. It would be great if the college could provide us with a legal document stating the number of\ncompanies interested in this plan, along with the required signatures. This would help the college gain\nmore trust from students.\n\nNA |\n\nProposing semester long internship sounds good and core industries require that much duration for\ninternships but for that purpose, compressing the semesters duration, i feel risky because managing\nall subjects study, journal submissions, assignments & final year project will be very difficult for a slow\nlearner or an average student."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 5.9611029624938965,
+        "source_metadata": {
+          "source": "200009b1e50f_14-GB-MOM.pdf",
+          "title": "200009b1e50f_14-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/14-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 6
+        },
+        "text": "12. Starting a new integrated M.Tech program in Electronics and Telecommunication\nEngineering and Increase in intake.\n\nThese proposals are widely discussed. While appreciating the proposal to start\nthe integrated M.Tech program, the members cautioned to study the consequences\ndeeply. Prof Bhirud though not present in person, opined that this move will lower the\nmerit during the admissions and unless institute offers dual degree, it will not attract\nthe students. Further, he remarked that while public institutions may take such\ndecision boldly, self-funded institutes should be very cautious while taking such an\nunusual decision. He said on the contrary, the institute should think about increasing\nthe intake of its flagship UG program in computer engineering as it is attracting top-\nnotch students. The principal informed that all senior faculty members of the institute\nin computer engineering are also of the opinion that the institute should increase its\nundergraduate intake in order attract meritorious students. Few members of the\nGoverning Body supported the decision to increase the intake of the undergraduate\n\n0 Hy a*\n\n1f? GBIF” Feb. 23"
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "01ddbf4278c5_10-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+        "page": 2,
+        "score": 6.24280309677124
+      },
+      {
+        "label": "Source 2",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 21,
+        "score": 6.23583459854126
+      },
+      {
+        "label": "Source 3",
+        "title": "200009b1e50f_14-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/14-GB-MOM.pdf",
+        "page": 6,
+        "score": 5.9611029624938965
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q18",
+    "category": "comparison",
+    "question": "Compare two departments listed by the institute based on their published descriptions.",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "I can only answer questions directly related to SPIT using its official knowledge base.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0011,
+    "generation_time_seconds": 10.8907,
+    "total_time_seconds": 10.8918,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 5.753035068511963,
+        "source_metadata": {
+          "source": "098404a85303_tpp_obj_document.pdf",
+          "title": "098404a85303_tpp_obj_document.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2019/01/tpp_obj_document.pdf",
+          "type": "pdf",
+          "page": 1
+        },
+        "text": "Inter-Departmental Paper Presentation Competition for Final Year student\nObjective: \n     Student will be able \n1.\nTo understand structure of research paper.\n2.\nTo write a research paper based on their final year project\n3.\nTo present research paper written based on their final year project\nDescription: \nThis competition is conducted for final year students of EXTC, ETRX, COMP, IT and MCA. Student writes a \nresearch paper based on their final year project under the guidance of their mentor.  Department wise \npapers are evaluated based on the paper presentation skill and paper writing skill. Inter departmental \nfaculty (judge) will select best 3 papers as winners using rubrics of evaluation. \nProcess of execution of Competition:\nR & D Committee conducts meeting for finalizing date of event \nR & D departmental coordinator gives name of faculties who will serve as\njudge (after discussion with HOD considering availability of faculty), list of\ndepartmental Student volunteers and room arrangement for paper\npresentation to the R & D Student Coordinator\nR & D Student Coordinator makes cross departmental judge list \nR & D Student Coordinator will display notice of event (i.e. date and time)\nand judge allocation list. R & D Departmental Coordinator displays room\nwise student list and rubrics for evaluation.\nR & D committee makes arrangement for hospitality\nDepartment wise event is inaugurated in the presence of HOD\nR & D departmental - Coordinator submits department al winner list (3 \nwinners), hardcopy of the research papers, CD containing soft copy of \nnotices to the R & D student Coordinator"
+      },
+      {
+        "rank": 2,
+        "bm25_score": 5.413022994995117,
+        "source_metadata": {
+          "source": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "title": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+          "type": "pdf",
+          "page": 14
+        },
+        "text": "36\nNataasha Raul, Radha Shankarmani, Padmaja Joshi\nA Comprehensive review of keystroke Dynamics based Authentication Mechanism\n37\nNataasha Raul, Amrita Tulshan\nKrisha: An Interactive Mobile Application for Autism Children\n38\nNataasha Raul, Royston Dmello, Mandar Bhalerao\nKeystroke Dynamics Authentication Using Small Datasets\n39\nProf. Reeta Koshy, Abhishek Padalkar, Neha Nikam,Vinit Jain\nEasy Verdict: Digital Assistant to Resolve Criminal Litigation\n40\nProf. Pramod Bide, Ananya Navelkar, Shrinivasrao Sai \nYerremreddy, Ananya Ojha, Jainam Soni\nA Two stage approach for Detection of Invasive and Cervical Intra-epithelial Neoplasia using \nMachine Learning and Image Processing Methodologies\n41\nAbhijeet Salunke, Soni Bhambar\nComparative Study of Trust and Reputation Security Models in IoT Networks\n42\nAbhijeet Salunke, Soni Bhambar\nComparative Study of Trust and Reputation Security Models in IoT Networks\n2019 IT\n1\nProf. Kailas Devadkar\nBlockchain: A new way to revolutionize CRM systems\n2\nProf. Kailas Devadkar\nA Next Generation Refrigerator on Compartmentalization Concept with\nConsumption Based Ordering\n3\nProf. Kailas Devadkar\nRash Driving Analysis for Safety Enforcement\n4\nProf. Kailas Devadkar\nFood Suggestion Engine Based on Mood\n  – Fomos\n5\nDr. Prasenjit Bhavathankar\nCellular Device Detection in Restricted Premises\n6\nProf."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 4.947977066040039,
+        "source_metadata": {
+          "source": "049ac46bc1ed_TPP-Nov-2020-IT-department-report.pdf",
+          "title": "049ac46bc1ed_TPP-Nov-2020-IT-department-report.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2021/05/TPP-Nov-2020-IT-department-report.pdf",
+          "type": "pdf",
+          "page": 2
+        },
+        "text": "The Evaluation was done in two Phases:  \n \nA) Technical Paper Writing  \nTechnical Papers written by the students were collected by 31st October 2020 and were \ngiven to judges along with pre-defined Rubrics for Technical Paper Writing for \nevaluation. Marks out of 25 were awarded to students under this segment on the basis of \nRubrics for Technical Paper Writing.  \nB) Technical Paper Presentation  \nStudents were made to present the papers by means of PowerPoint Presentation for time \nlimit not exceeding 7 minutes and additional 3 minutes were reserved for question-\nAnswer session. Marks out of 25 were awarded based on the defined Rubrics for \nTechnical Paper Presentation. \n \nScreenshots of Evaluation of student groups"
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "098404a85303_tpp_obj_document.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2019/01/tpp_obj_document.pdf",
+        "page": 1,
+        "score": 5.753035068511963
+      },
+      {
+        "label": "Source 2",
+        "title": "13d2d21549b4_Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2023/05/Conference_Publications_From-Year-2017-to-Year_2022-1-1.pdf",
+        "page": 14,
+        "score": 5.413022994995117
+      },
+      {
+        "label": "Source 3",
+        "title": "049ac46bc1ed_TPP-Nov-2020-IT-department-report.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2021/05/TPP-Nov-2020-IT-department-report.pdf",
+        "page": 2,
+        "score": 4.947977066040039
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q19",
+    "category": "comparison",
+    "question": "Compare the institute's published information about academic programmes and placement support.",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "While the institute's published information about academic programmes includes details on first-year UG programs, it does not provide specific information on placement support. The provided document focuses primarily on the curriculum changes, admission statistics, and recommendations for mergers between different programs. There is no mention of placements or internships, which are crucial aspects of the institute's academic program. Therefore, the comparison cannot be made based solely on the information available in the retrieved context.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0011,
+    "generation_time_seconds": 15.5903,
+    "total_time_seconds": 15.5914,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 7.007163047790527,
+        "source_metadata": {
+          "source": "0ff1a38eecca_Minutes-of-ACM-6.pdf",
+          "title": "0ff1a38eecca_Minutes-of-ACM-6.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/Minutes-of-ACM-6.pdf",
+          "type": "pdf",
+          "page": 5
+        },
+        "text": "Sardar Patel Institute of Technology \nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058, India \n(Autonomous College Affiliated to University of Mumbai) \n \n5. While presenting PG schemes, Dr. Jonathan Joshi raised query about \nthread electives and asked whether pre-requisites are to be fulfilled \nfor courses in the thread electives. Dr. Chaudhari clarified it by \nmentioning the relevance of courses to each other and clarified that \nthe pre-requisites must be fulfilled while opting for the courses from \nthread electives. \n  \nResolution \nThe Changes in the curriculum for UG, PG and MCA, First and Second-\nYear Syllabi was unanimously approved subject to concerns on \ninitiatives such as Honors Certification and Six-month Industry \nInternship. Principal Dr. B. N. Chaudhari assured to take necessary \nsteps to revisit it based on the suggestions received and the feedback \nreceived from Industry Experts.  \n \n \n \n7) Information about \nAdmission Statistics \n \n8) Information about \nPlacement and \nInternships \nDiscussion \n \nDr. Sutar Presented the Admission Statistics of First-Year UG \nprograms. Dr Chaudhari informed about admission scenario. Dr. \nSutar while presenting placement and internship statistics thanked \nthe Training and Placement office for their sincere efforts in breaking \nthe previous records.    \n \n \n \n \n9) Recommendations for \nmerger of the UG \nprograms \n \n10) Starting New Programs \nat undergraduate level \nDiscussion \n1. Dr. Sutar opened the discussion on the possible merger of \nElectronics and Electronics & Telecommunication to “Electronics \nand Telecommunication”. Merger of Computer Engineering and \nInformation Technology to Computer Engineering was also \nproposed. Dr. Shubha Pandit pointed out regarding the \ndifficulties in merging and advised to handle the issue carefully \nwhile dealing with the Cadre Ratio and Sonority of faculty."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 5.959481716156006,
+        "source_metadata": {
+          "source": "01ddbf4278c5_10-GB-MOM.pdf",
+          "title": "01ddbf4278c5_10-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 5
+        },
+        "text": "Dilip Patil, a retired professor from IISc, Bangalore. His\nresume was circulated. He informed the GB that a senior Professor from I!ITB has\nstrongly recommended Prof. Patil to get benefit of his association. Chairman inquired\nwhether such Emeritus faculty will be considered by NBA. Shri Mhatre sir informed\nthat such faculty members are considered upto 20 % of total faculty strength. Prof.\nGadre commented that Professor Emeritus status is appropriate.\n\nResolution 10/10: The GB approves the induction of Prof. Dilip Patil as Professor\nEmeritus with monthly honorarium of Rs. 1,00,000/- .\n\nRe-appointment of Shri Vinod Sikka as Training and Placement Officer\n\nPrincipal briefed about Shri Vinod Sikka, who is working as the Training and Placement\nofficer of the institute since July 2012. He further informed that Initially Shri Sikka was\ngiven an honorarium of Rs. 53,000/- p.m. and it was raised to Rs. 60,000/- in 2018. In\naddition, he is given an honorarium of Rs. 25000/- from TBI for contributing in TBI\nactivities. Appreciating Shri Sikka’s commitment to the work, discipline, his cordial\nrelations with most of the faculty, and his efforts towards the placement of the\nstudents, Principal proposed to continue him for one more year (1* Nov. 21 to 315\nOct.22) with a fixed honorarium of Rs. 1,00,000/- p.m. It was proposed to stop the"
+      },
+      {
+        "rank": 3,
+        "bm25_score": 5.835279941558838,
+        "source_metadata": {
+          "source": "01ddbf4278c5_10-GB-MOM.pdf",
+          "title": "01ddbf4278c5_10-GB-MOM.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+          "type": "pdf",
+          "page": 4
+        },
+        "text": "Bharatiya Vidya Bhavan’s\nSARDAR PATEL INSTITUTE OF TECHNOLOGY\n\n(Autonomous)\nMunshi Nagar, Andheri(W), Mumbai — 400 058.\n\n \n\nAllowance for regular faculty.\n\nPrincipal stressed importance of the faculty enpowerment. He pointed out that the\nfaculty is the most important stakeholder of an institute. While students spend their\n4 years in the institute, by large, teacher spends 25-30 years with the institute.\nEmpowerment of faculty in turn is an empowerment of the student. While investment\non empowerment of a student is recurring, the investment on empowerment of\nfaculty gives long term returns. Institutes need to ensure continuous value addition of\neach faculty. He informed that S.P.I.T understands this generously and has few\nempowerment schemes in place for the faculty. Faculty is already supported for the\nFDP, publishing paper in the conferences, membership of professional societies, filing\nthe patent etc. To encourage this further, professional development allowance for\nregular faculty is proposed revisiting existing schemes / policies and articulating few\nnew schemes under the broad umbrella of Professional Development Allowance for\nthe faculty.\n\nThe members appreciated this initiative. Prof Gadre remarked that this spending\nshould finally contribute to teaching. Also, students should be inculcated with these\nthoughts that they should contribute to the running of institute i.e. build a sense of social\nresponsibility. But parents may be concerned about their wards progress. Can students\nbe encouraged to think that in the larger good he too will benefit. He suggested to use\ntheir energy to build the institute. In the long run their community, nation benefits. He\nremarked that we should teach them that by doing this in the long run they will benefit.\nHe further expressed that this level of depth should be thought of while framing such\nscheme. Appreciating the philosophical inputs from Prof."
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "0ff1a38eecca_Minutes-of-ACM-6.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/Minutes-of-ACM-6.pdf",
+        "page": 5,
+        "score": 7.007163047790527
+      },
+      {
+        "label": "Source 2",
+        "title": "01ddbf4278c5_10-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+        "page": 5,
+        "score": 5.959481716156006
+      },
+      {
+        "label": "Source 3",
+        "title": "01ddbf4278c5_10-GB-MOM.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2024/11/10-GB-MOM.pdf",
+        "page": 4,
+        "score": 5.835279941558838
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  },
+  {
+    "question_id": "Q20",
+    "category": "comparison",
+    "question": "Compare two campus facilities or student activities documented by official sources.",
+    "top_k": 3,
+    "expected_answer": "",
+    "answerable_expected": true,
+    "generated_answer": "Both campus facilities and student activities were documented by official sources. The first facility was described as having \"GPU\" in the computer hardware, indicating advanced computing capabilities. Additionally, the second facility mentioned \"SEVA events,\" suggesting a large-scale educational and recreational event. Both facilities were noted to require careful planning and implementation, as evidenced by the mention of \"traveling time to actual time spent on the event.\" Furthermore, both facilities were highlighted as being available through pre-installed software, further emphasizing their importance. Lastly, both facilities were commented upon as offering stipends for research work, though no specific details about the amount or type of stipend were provided.",
+    "retrieval_hit_at_k": null,
+    "retrieval_time_seconds": 0.0008,
+    "generation_time_seconds": 16.1121,
+    "total_time_seconds": 16.1128,
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "bm25_score": 7.476902961730957,
+        "source_metadata": {
+          "source": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+          "type": "pdf",
+          "page": 6
+        },
+        "text": "Code of Conduct for Students of SPIT-2023 \n \n \nindividual or group based on origin, race, creed, gender, religious beliefs, or sexual \norientation that is likely to create an intimidating or demeaning environment that impedes a \nconducive atmosphere in the institute. \n \n19. Do not falsify, mislead, forge, or alter official or academic records or documents or conspire \nwith or induce others to forge or alter college records or documents. \n \n20. Institute prohibits unauthorized access and use of Institute properties such as offices, labs, \nseminar halls, conference room and other physical spaces, keys, telephones, and IT \ninfrastructure without proper authorization from Dean-Administration.  \n \n21. Refrain from any act of Violence, damage to property, theft, threatening, harassing, or \nassaultive conduct causing injury to other persons within the campus. \n \n22. A Student or group of Students shall not form any organization, society or organize any event \nor collect funds or subscriptions without the specific written permission of the concerned \nauthorities. \n \n23. Cooperate when requested by an authorized institute official in any internal investigation. \n \n24. Observe social Etiquette and be punctual while attending the meeting(s) (offline/online) \ninvited by the authorities. \n \n25. Strictly avoid illegal or unauthorized possession or use of weapons or articles or substances \nusable as weapons, including, but not limited to, firearms, incendiary devices, explosives, \nand dangerous biological or chemical agents. \n \n26. Do not consume any intoxicating drinks or drugs during college hours and on campus.  \n \n \n27. Smoking and Gambling of any kind is not permitted and strictly prohibited inside the campus. \n \n28. Do not engage or incite other students to engage by any means whatsoever and perform or \nattempt to perform acts which bring disrepute to other students / faculty of the institute. \n \n29."
+      },
+      {
+        "rank": 2,
+        "bm25_score": 6.357564926147461,
+        "source_metadata": {
+          "source": "1fc3a50929d1_code-of-conduct-for-faculty.pdf",
+          "title": "1fc3a50929d1_code-of-conduct-for-faculty.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/code-of-conduct-for-faculty.pdf",
+          "type": "pdf",
+          "page": 4
+        },
+        "text": "42. A teacher shall not engage himself as a selling agent or canvasser for any published firm or \ntrader. \n43. A teacher shall not furnish incorrect information regarding his qualifications, experience, age \netc. in respect of the appointment/promotion. \n44. A teacher shall not raise questions of caste, creed, religion, race or sex in his relationship with \nhis colleagues and trying to use the above considerations for improvement of his prospects. \n45. No teacher shall drink alcohol while on duty or be found drunk during working hours. He shall \nnot be under the influence of any intoxicating drink or drug during the course of his duty. \n46. A teacher shall not smoke in the classroom during working hours or in any place within the \ncampus of the Institution. \n47. A teacher shall not except in accordance with any general or special order of the University of \nthe Institution, as the case may be, or in the performance in good faith or duties assigned to \nhim/her divulge or communicate directly any official document or other information \nwhatsoever to any teacher or to any other person to whom he/she is not authorized to divulge \nor communicate such documents or information. A teacher shall not divulge privileged or \nclassified information or document to any person or body that is not entitled to have access \nto such information or document. \n48. A teacher shall not misappropriate institution’s property or commit acts of theft, fraud or \nembezzlement of funds. \n49. A teacher shall submit report of the project/activity undertaken by him along with the \nstatement of accounts (with all vouchers) to the sponsoring agency within a stipulated time. \n50. A teacher shall not obstruct staff of the institution from performing their lawful duties and \nindulging in any sort of agitation to coerce of embarrass institution authorities. \n51."
+      },
+      {
+        "rank": 3,
+        "bm25_score": 5.683917045593262,
+        "source_metadata": {
+          "source": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+          "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+          "type": "pdf",
+          "page": 29
+        },
+        "text": "2. Better Project development facilities like dedicated labs etc.\n3. In case of a big SEVA event, travel services from the main station of the event to the event\nitself\n4. SEVA activity locations need to be chosen more carefully as the ratio of travelling time to\nactual time spent on the event should be minimal.\nNA\nThe computers should have GPU in them for faster computation\nSoftwares that are needed for the practicals can be pre-installed on systems so that the\nstudents do not waste time configuring the systems and can focus on implementing the\nexperiments.\nStipend based research work in campus itself.\nNothing.\nCoursera and udemy courses\n0 Copy\nNot any\n27-Nov-24, 1:37 PM\n6 of 10\n27-Nov-24, 1:37 PM"
+      }
+    ],
+    "sources_returned_by_generator": [
+      {
+        "label": "Source 1",
+        "title": "270ac9e8bf77_Code-of-conduct-for-students.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/Code-of-conduct-for-students.pdf",
+        "page": 6,
+        "score": 7.476902961730957
+      },
+      {
+        "label": "Source 2",
+        "title": "1fc3a50929d1_code-of-conduct-for-faculty.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2026/08/code-of-conduct-for-faculty.pdf",
+        "page": 4,
+        "score": 6.357564926147461
+      },
+      {
+        "label": "Source 3",
+        "title": "23cc4f01ea4b_Students_Feedback_2018-19-to-2022-23.pdf",
+        "url": "https://www.spit.ac.in/wp-content/uploads/2025/06/Students_Feedback_2018-19-to-2022-23.pdf",
+        "page": 29,
+        "score": 5.683917045593262
+      }
+    ],
+    "manual_answer_correct": "",
+    "manual_faithfulness": "",
+    "manual_abstention_correct": "",
+    "notes": ""
+  }
+]

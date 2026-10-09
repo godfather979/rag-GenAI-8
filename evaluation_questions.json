@@ -1,0 +1,252 @@
+{
+  "title": "S.P.I.T. BM25-RAG Evaluation Dataset",
+  "instructions": [
+    "Run these 30 questions against the crawled S.P.I.T. knowledge base.",
+    "Before calculating answer accuracy, manually verify each answerable question and fill expected_answer and relevant_source_keywords based on official source documents.",
+    "The unanswerable questions are intended to test abstention; confirm that the indexed corpus does not contain the requested information.",
+    "The five comparison questions require two comparable entities to be found in the corpus. If the sources do not support a comparison, the correct behaviour is to abstain.",
+    "Do not use or add real student personal data."
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "category": "factual",
+      "question": "What is the official name of the institute?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q02",
+      "category": "factual",
+      "question": "Where is S.P.I.T. located?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q03",
+      "category": "factual",
+      "question": "Which university is S.P.I.T. affiliated with?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q04",
+      "category": "factual",
+      "question": "What is the institute's academic or autonomous status?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q05",
+      "category": "factual",
+      "question": "Which undergraduate engineering programmes are listed by the institute?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q06",
+      "category": "factual",
+      "question": "Which postgraduate programmes are listed by the institute?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q07",
+      "category": "factual",
+      "question": "Which departments or academic departments are listed on the official website?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q08",
+      "category": "factual",
+      "question": "Where can a prospective student find official admission information?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q09",
+      "category": "factual",
+      "question": "What official contact information is provided for the institute?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q10",
+      "category": "factual",
+      "question": "What placement or career-related information does the institute publish?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q11",
+      "category": "multi_document",
+      "question": "Using the official sources, summarize the undergraduate programmes and the departments associated with them.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q12",
+      "category": "multi_document",
+      "question": "Combine the official information about admissions and the relevant academic programmes for a prospective applicant.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q13",
+      "category": "multi_document",
+      "question": "What do the available official sources say about both placements and career development opportunities?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q14",
+      "category": "multi_document",
+      "question": "Summarize the institute's academic offerings using information from more than one relevant source.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q15",
+      "category": "multi_document",
+      "question": "What official information is available about campus facilities and student activities?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q16",
+      "category": "comparison",
+      "question": "Compare two undergraduate programmes listed by S.P.I.T., using only details explicitly available in the sources.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q17",
+      "category": "comparison",
+      "question": "Compare the admission information available for undergraduate and postgraduate study, if both are documented.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q18",
+      "category": "comparison",
+      "question": "Compare two departments listed by the institute based on their published descriptions.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q19",
+      "category": "comparison",
+      "question": "Compare the institute's published information about academic programmes and placement support.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q20",
+      "category": "comparison",
+      "question": "Compare two campus facilities or student activities documented by official sources.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q21",
+      "category": "reasoning",
+      "question": "Based on the official sources, what should a prospective applicant check before applying to a programme?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q22",
+      "category": "reasoning",
+      "question": "Using the retrieved official information, explain how a student could identify the appropriate department for a programme.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q23",
+      "category": "reasoning",
+      "question": "What evidence in the official sources would help a student understand the institute's career support?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q24",
+      "category": "reasoning",
+      "question": "If a programme's eligibility criteria are not stated in the retrieved sources, can they be inferred? Explain using the available evidence.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q25",
+      "category": "reasoning",
+      "question": "How should a reader verify an admission deadline when different pages may contain different dates? Use only evidence from the sources.",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": true
+    },
+    {
+      "id": "Q26",
+      "category": "unanswerable",
+      "question": "What was S.P.I.T.'s exact electricity bill on 17 March 2025?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": false
+    },
+    {
+      "id": "Q27",
+      "category": "unanswerable",
+      "question": "What is the personal mobile number of the institute principal?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": false
+    },
+    {
+      "id": "Q28",
+      "category": "unanswerable",
+      "question": "What are the private passwords for the institute's student portal?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": false
+    },
+    {
+      "id": "Q29",
+      "category": "unanswerable",
+      "question": "What exact marks did a particular student receive in every subject last semester?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": false
+    },
+    {
+      "id": "Q30",
+      "category": "unanswerable",
+      "question": "What will be the exact placement package of every student in the next academic year?",
+      "expected_answer": "",
+      "relevant_source_keywords": [],
+      "answerable": false
+    }
+  ]
+}
