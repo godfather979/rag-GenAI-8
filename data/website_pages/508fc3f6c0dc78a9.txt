@@ -1,0 +1,188 @@
+TITLE: Research Areas «  Sardar Patel Institute of Technology
+URL: https://www.spit.ac.in/faculty-research/policy-research-areas/research-areas/
+
+Bharatiya Vidya Bhavan's
+Sardar Patel Institute of Technology
+Empowered Autonomous Institute · Affiliated to Mumbai University
+आ नो भद्राः क्रतवो यन्तु विश्वतः
+Let noble thoughts come to us from every side
+NAAC
+NIRF
+NBA
+ARIIA
+IIC
+About
+About S.P.I.T.
+About Bharatiya Vidya Bhavan's
+Founders Message
+Principal’s Message
+Vision & Mission
+Institutional Values
+Code of Conduct
+For Students
+For Faculty
+For Administrative & Technical Staff
+Roles and Responsibilities
+For Faculty
+For Technical Staff
+For Administrative Staff
+Campus
+Contact
+Academics
+UG Programme
+PG Programme
+Ph.D. Programme
+Departments
+Exam
+Results Analysis
+Examination Manual
+Contact
+Students Empowerment Policy
+Faculty Empowerment Policy
+Best Practices
+Curriculum
+Academic Calendar
+(TLE) Model
+Academic Council Minutes
+Resources
+IT Infrastructure
+Moodle
+GPU Computing Facility
+Library
+DSpace
+Administration
+Governing Body
+Deans
+Finance Committee
+Organogram
+Academic Council
+Faculty & Staff
+IQAC
+Constitution
+MoM
+Perspective Plan
+Feedback
+Institutional Distinctiveness
+Committees
+Students
+Scholarships
+Narotam Sekhsaria Foundation
+Vidya Lakshmi Portal
+Online Transcripts
+Student Council
+Student Activities
+Oculus
+Sports
+Student Clubs
+E-Cell
+SPARK
+IEEE
+IIC
+ACSES
+NISP
+IETE
+Rotaract Club
+Enactus
+FACE
+Achievements
+SP-TBI
+Alumni
+Capacity Development Programme
+Research
+Preamble
+IdeaLab
+R&D Committee
+Policy & Research Areas
+Funded Projects
+International Conferences
+ICCICT-2021
+ICCICT-2018
+ICCICT-2015
+ICCICT-2012
+IEEE Colloquium
+Students Technical Activities
+Technical Paper Presentation
+SPARK
+Workshops
+Current Events & Activities
+Useful links
+Publications Portal
+Placements
+Admissions
+Mandatory Disclosure & Reports
+Research Areas
+Research Domains
+Description
+Facilities / Resources
+Modern digital signal processing.
+Wireless networks, UWB systems, Optical networks, speech, audio and video processing
+Digital communication Research Lab
+Cyber Physical Systems
+Antennas, Embedded systems and VLSI
+IoT Physical System Lab
+Systems and security
+Computer Networking, Encryption, Data compression, IOT, Cloud computing
+Communication system Lab
+VLSI and Embedded System
+Primarily the research is carried out in Novel circuit Design, Device Simulation, Embedded Product Design and VLSI Communication Circuits.
+VLSI LAB
+Visual TCAD, Vivaldo,
+TI MSP Board,
+Keil Embedded Software
+Signal and Image Processing
+primarily research is carried out in Biomedical Signal Processing, Machine Learning and Video Analytics
+DSP LAB
+DSP Boards , Matlab Software
+Instrumentation and Control
+research is focussed in Simulation and design of instrumentation systems, Power Electronics System, Renewable energy and Biomedical systems
+Instrumentation and Control LAB PSIM,C2000 Boards, Induction Motors, (3 phase), D C Motors,
+Labview, NI Elvis, T.I. PMLK boards, PLC(Allen Bradly)
+Data Analytics
+To process and analysis a huge volume of data sets using Hadoop.
+Working with mining concept for large volume of data.
+Database Lab
+Distributed System
+A private cloud was setup to understand benefits of virtualization
+Reusable application components for uses in cloud solutions.
+CUDA Lab for high performance computing using parallel processing.
+Cloud Computing Lab,
+CUDA Lab,
+Networking Lab
+Image Processing
+To enhance and process images for various applications.
+Project are undertaken which focus on biometric applications.
+Multimedia/ Image Processing Lab
+Security
+Information Security, Network Security, Cyber Security, Cryptography and System Security.
+Networking & Database Lab
+Design, Intelligence ,Artificial Intelligence and Machine Learning
+Soft computing, Machine Learning, Data Mining, Big Data Analytics (Proposed), Service Oriented Architecture, Natural Language Processing.
+Operating System & Programming Technology Lab
+Related Links
+Policies
+Budget
+Calendar
+Research Areas
+Home
+|
+AICTE
+|
+Mumbai University
+|
+DTE
+|
+Campus Virtual Tour
+|
+Tender
+|
+Careers
+|
+Contact
+|
+Terms & Conditions
+|
+Privacy Policy
+|
+Refund/Cancellation Policy
+Bharatiya Vidya Bhavans Sardar Patel Institute of Technology
+Munshi Nagar, Andheri (West), Mumbai 400 058

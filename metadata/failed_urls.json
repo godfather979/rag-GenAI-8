@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.spit.ac.in/resources/it-infrastructure/spit.ac.in",
+    "error": "HTTP 404"
+  },
+  {
+    "url": "https://www.spit.ac.in/about/institutional-ethics-committee/",
+    "error": "HTTP 404"
+  },
+  {
+    "url": "https://www.spit.ac.in/wp-content/uploads/2021/05/Final-Evaluation-of-Sem-1-_-SPIT-Results-of-PGD-UX.xlsx",
+    "error": "HTTP 404"
+  }
+]

@@ -34,12 +34,6 @@ Thumbs.db
 *.tmp
 *.bak
 
-# Downloaded datasets and documents
-data/
-metadata/
-
-# FAISS vector store
-vector_store/
 
 # Model and ML cache
 .cache/
